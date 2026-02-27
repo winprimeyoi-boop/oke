@@ -26,7 +26,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: ⛏️ Menjalankan Scraper M3U (Sky & Vavoo)
+      - name: ⛏️ Menjalankan Semua Scraper M3U (Sky, Amstaff, Vavoo, Sportzx, LastMinute)
         run: |
           npm run harvest:all
 
