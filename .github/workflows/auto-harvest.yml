@@ -1,0 +1,35 @@
+name: 🔄 Auto Harvest M3U TV Channels
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  harvest-channels:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: ⛏️ Menjalankan Scraper M3U (Sky & Vavoo)
+        run: |
+          npm run harvest:all
+          
+      - name: 📤 Auto-Commit Hasil M3U
+        run: |
+          git config --global user.name "TV-Harvester-Bot"
+          git config --global user.email "bot@github.actions"
+          
+          git add *.m3u8
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Update otomatis M3U ( $(date +'%Y-%m-%d') )" && git push)
