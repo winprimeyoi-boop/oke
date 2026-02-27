@@ -1,7 +1,6 @@
 const fs = require('fs');
 const https = require('https');
 const crypto = require('crypto');
-const axios = require('axios');
 const { URL } = require('url');
 const zlib = require('zlib');
 
