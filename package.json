@@ -6,9 +6,9 @@
   "scripts": {
     "harvest:sky": "node scripts/get-sky.js",
     "harvest:vavoo": "node scripts/get-vavoo.js",
-    "harvest:all": "npm run harvest:sky && npm run harvest:vavoo"
+    "harvest:all": "npm run harvest:sky && npm run harvest:amstaff && npm run harvest:vavoo && npm run harvest:sportzx",
+    "harvest:sportzx": "node scripts/get-sportzx.js"
   },
   "author": "Wins TV",
   "license": "ISC"
 }
-
