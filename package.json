@@ -1,0 +1,14 @@
+{
+  "name": "iptv-harvest-server",
+  "version": "1.0.0",
+  "description": "Auto M3U TV Channels Harvester via GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "harvest:sky": "node scripts/get-sky.js",
+    "harvest:amstaff": "node scripts/get-amstaff-all.js",
+    "harvest:vavoo": "node scripts/get-vavoo.js",
+    "harvest:all": "npm run harvest:sky && npm run harvest:amstaff && npm run harvest:vavoo"
+  },
+  "author": "Wins TV",
+  "license": "ISC"
+}
