@@ -7,9 +7,9 @@
     "harvest:sky": "node scripts/get-sky.js",
     "harvest:vavoo": "node scripts/get-vavoo.js",
     "harvest:sportzx": "node scripts/get-sportzx.js",
-    "harvest:all": "npm run harvest:sky && npm run harvest:vavoo && npm run harvest:sportzx"
+    "harvest:all": "npm run harvest:sky && npm run harvest:vavoo && npm run harvest:sportzx && npm run harvest:lastminute",
+    "harvest:lastminute": "node scripts/get-sport-lastminute.js"
   },
   "author": "Wins TV",
   "license": "ISC"
 }
-
