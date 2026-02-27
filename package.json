@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "harvest:sky": "node scripts/get-sky.js",
-    "harvest:amstaff": "node scripts/get-amstaff-all.js",
     "harvest:vavoo": "node scripts/get-vavoo.js",
     "harvest:sportzx": "node scripts/get-sportzx.js",
-    "harvest:all": "npm run harvest:sky && npm run harvest:amstaff && npm run harvest:vavoo && npm run harvest:sportzx"
+    "harvest:all": "npm run harvest:sky && npm run harvest:vavoo && npm run harvest:sportzx"
   },
   "author": "Wins TV",
   "license": "ISC"
 }
+
