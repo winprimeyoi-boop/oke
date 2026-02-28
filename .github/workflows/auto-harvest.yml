@@ -28,6 +28,7 @@ jobs:
 
       - name: ⛏️ Menjalankan Semua Scraper M3U (Sky, Amstaff, Vavoo, Sportzx, LastMinute)
         run: |
+          npm install
           npm run harvest:all
 
       - name: 📤 Auto-Commit Hasil M3U
