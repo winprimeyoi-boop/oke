@@ -93,10 +93,27 @@ async function getWorkingProxy() {
 async function fetchWithRetry(url, options, proxies) {
     const HttpsProxyAgent = require('https-proxy-agent');
     const fetchWithAgent = require('node-fetch');
+    const { execSync } = require('child_process');
 
-    // Coba tanpa proxy dulu (siapa tahu lolos)
+    // Coba menggunakan CURL (untuk bypass Cloudflare TLS Fingerprint pada Node.js)
     try {
-        console.log(`  -> Trying direct connection...`);
+        console.log(`  -> Trying system curl (TLS Bypass)...`);
+        const curlCmd = `curl -sL "${url}" -H "User-Agent: ${options.headers['User-Agent']}" -H "Accept: */*" -H "Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7" -H "Connection: keep-alive" --compressed`;
+        
+        let text = execSync(curlCmd, { stdio: 'pipe' }).toString();
+        text = text.trim();
+        if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+        if (text.startsWith("#EXTM3U")) {
+            console.log(`  -> Success with system curl!`);
+            return text;
+        }
+    } catch (e) {
+        console.log(`  -> Curl failed or returned non-M3U`);
+    }
+
+    // Coba tanpa proxy pakai Node Fetch
+    try {
+        console.log(`  -> Trying direct Node fetch...`);
         const res = await fetch(url, options);
         let text = await res.text();
         text = text.trim();
