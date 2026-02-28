@@ -347,3 +347,56 @@ https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
 
 #EXTINF:-1 tvg-id="heerenveenvsspartarotterdam1630espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heerenveen vs Sparta Rotterdam 16:30 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
+
+#EXTINF:-1 tvg-id="heraclesvspsveindhoven1845sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heracles vs PSV Eindhoven 18:45 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="heraclesvspsveindhoven1845espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heracles vs PSV Eindhoven 18:45 (ESPN NL)
+https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
+
+#EXTINF:-1 tvg-id="necvsfortunasittard2100espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NEC vs Fortuna Sittard 21:00 (ESPN NL)
+https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
+
+#EXTINF:-1 tvg-id="kasmpaavsaykurrizespor1130beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Kas mpa a vs  aykur Rizespor 11:30 (beIN SPORTS)
+https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="kocaelisporvsbeikta1400beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Kocaelispor vs Be ikta  14:00 (beIN SPORTS)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="galatasarayvsalanyaspor1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Galatasaray vs Alanyaspor 18:00 (beIN SPORTS)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="gztepevseypspor1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",G ztepe vs Ey pspor 18:00 (beIN SPORTS)
+https://smarthard.click/hls/DcTxPWHOB5aM/index.m3u8
+
+#EXTINF:-1 tvg-id="realzaragozavsburgos1615laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Real Zaragoza vs Burgos 16:15 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="granadavsmlaga1830laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Granada vs M laga 18:30 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="realvalladolidvshuesca1830laligahypermotion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Real Valladolid vs Huesca 18:30 (Laliga Hypermotion)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD1581/index.mpd
+
+#EXTINF:-1 tvg-id="castellnvsracingclub2100laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Castell n vs Racing Club 21:00 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="leicestercityvsnorwichcity1330fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs Norwich City 13:30 (FANCODE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="leicestercityvsnorwichcity1330fancodesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs Norwich City 13:30 (FANCODE - SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
