@@ -194,7 +194,7 @@ https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 
 #EXTINF:-1 tvg-id="utahjazzvsneworleanspelicans0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Utah Jazz vs New Orleans Pelicans 03:30 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
 #EXTINF:-1 tvg-id="neomscvsalkholood2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Neom SC vs Al-Kholood 20:00 (Thmanyah - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -301,18 +301,29 @@ https://601.lifesharper.com/newcastle.m3u8
 #EXTINF:-1 tvg-id="burnleyvsbrentford1600skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Brentford 16:00 (SKY SPORTS FHD)
 https://grand-s-v001.faggotsports.tv/out/v1/5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d/mix-stream.m3u8
 
-#EXTINF:-1 tvg-id="comovslecce1500beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Como vs Lecce 15:00 (beIN ENGLISH)
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (PSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
+https://cdn4.skygo.mn/live/disk1/SPSPlay/DASH-FTA/SPSPlay.mpd
 
-#EXTINF:-1 tvg-id="comovslecce1500foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Como vs Lecce 15:00 (FOX DEPORTES)
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (SKY SPORTS FHD)
+https://grand-s-v001.faggotsports.tv/out/v1/e25132915cf1e67759051cac80b42275/mix-stream.m3u8
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (TELEMUNDO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-id="comovslecce1500fubosports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Como vs Lecce 15:00 (FUBO SPORTS)
-https://grand-s-v001.faggotsports.tv/out/v1/81b11c7f350f5d34924580e8f00fee05/mix-stream.m3u8
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830nbcsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (NBC SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (NOW SPORTS PL)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/now.m3u8
+
+#EXTINF:-1 tvg-id="leedsvsmanchestercity1830hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leeds vs Manchester City 18:30 (HD SERVER)
+https://storage.googleapis.com/uncetrunvover1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="barcelonavsvillarreal1615laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Barcelona vs Villarreal 16:15 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -347,24 +358,19 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
+#EXTINF:-1 tvg-id="borussiadortmundvsbayernmnchen1830onesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Bayern M nchen 18:30 (ONE SPORTS)
+https://601.xn--1000-ugoa0hsb9a0hb.com/one.m3u8
+
 #EXTINF:-1 tvg-id="borussiadortmundvsbayernmnchen1830elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Bayern M nchen 18:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6411/index.mpd
 
-#EXTINF:-1 tvg-id="bayerleverkusenvsmainz051530psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Mainz 05 15:30 (PSN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-https://cdn3.skygo.mn/live/disk1/SPSPlus/DASH-FTA/SPSPlus.mpd
+#EXTINF:-1 tvg-id="borussiadortmundvsbayernmnchen1830skyfootball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Bayern M nchen 18:30 (SKY FOOTBALL)
+https://601.xn--1000-ugoa0hsb9a0hb.com/football.m3u8
 
-#EXTINF:-1 tvg-id="bayerleverkusenvsmainz051530daznsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Mainz 05 15:30 (DAZN SPORTS)
-https://grand-s-v001.faggotsports.tv/out/v1/3b9b2e211b913c6f0ccd72cd7f53649a/mix-stream.m3u8
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsmainz051530onesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Mainz 05 15:30 (ONE SPORTS)
-https://601.lifesharper.com/one.m3u8
-
-#EXTINF:-1 tvg-id="bayerleverkusenvsmainz051530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Mainz 05 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
+#EXTINF:-1 tvg-id="borussiadortmundvsbayernmnchen1830espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Bayern M nchen 18:30 (ESPN DEPORTES)
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/dep.m3u8
 
 #EXTINF:-1 tvg-id="hellasveronavsnapoli1800beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Hellas Verona vs Napoli 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -411,24 +417,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
-#EXTINF:-1 tvg-id="borussiamgladbachvsunionberlin1530daznsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia M'gladbach vs Union Berlin 15:30 (DAZN SPORTS)
-https://grand-s-v001.faggotsports.tv/out/v1/ae38ce01c004dd39ed363e1615df511c/mix-stream.m3u8
-
-#EXTINF:-1 tvg-id="borussiamgladbachvsunionberlin1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia M'gladbach vs Union Berlin 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/9gSZoyFska/index.m3u8
-
-#EXTINF:-1 tvg-id="werderbremenvsheidenheim1530daznsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Werder Bremen vs Heidenheim 15:30 (DAZN SPORTS)
-https://grand-s-v001.faggotsports.tv/out/v1/7669ea9e7cd876bfd25b8f536f499e89/mix-stream.m3u8
-
-#EXTINF:-1 tvg-id="werderbremenvsheidenheim1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Werder Bremen vs Heidenheim 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
-
-#EXTINF:-1 tvg-id="hoffenheimvsstpauli1530daznsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs St. Pauli 15:30 (DAZN SPORTS)
-https://grand-s-v001.faggotsports.tv/out/v1/35587c13ab60adcadfa21787ef871b8c/mix-stream.m3u8
-
-#EXTINF:-1 tvg-id="hoffenheimvsstpauli1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs St. Pauli 15:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
 #EXTINF:-1 tvg-id="kaiserslauternvspaderborn1300beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Kaiserslautern vs Paderborn 13:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
@@ -436,14 +424,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/
 
 #EXTINF:-1 tvg-id="kaiserslauternvspaderborn1300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Kaiserslautern vs Paderborn 13:00 (SportzX Live)
 https://live.alilicloud.com/live/fbd077acc1c97f7b1796cc317ed095c6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="arminiabielefeldvshannover1300elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Arminia Bielefeld vs Hannover 13:00 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6412/index.mpd
-
-#EXTINF:-1 tvg-id="arminiabielefeldvshannover1300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Arminia Bielefeld vs Hannover 13:00 (SportzX Live)
-https://live.alilicloud.com/live/5bf7e9592abc5f4b1f8d973eb07caded/playlist.m3u8
 
 #EXTINF:-1 tvg-id="heerenveenvsspartarotterdam1630espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heerenveen vs Sparta Rotterdam 16:30 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
@@ -458,9 +438,6 @@ https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
 
 #EXTINF:-1 tvg-id="necvsfortunasittard2100espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",NEC vs Fortuna Sittard 21:00 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
-
-#EXTINF:-1 tvg-id="kocaelisporvsbeikta1400beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Kocaelispor vs Be ikta  14:00 (beIN SPORTS)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
 #EXTINF:-1 tvg-id="galatasarayvsalanyaspor1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Galatasaray vs Alanyaspor 18:00 (beIN SPORTS)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
@@ -487,14 +464,6 @@ https://bbb.exoadash.com/TVD1581/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
-#EXTINF:-1 tvg-id="leicestercityvsnorwichcity1330beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs Norwich City 13:30 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="leicestercityvsnorwichcity1330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Leicester City vs Norwich City 13:30 (SportzX Live)
-https://live.alilicloud.com/live/201430ff2fdefc438e41a01c46747ed3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="prestonnorthendvsmillwall1600beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Preston North End vs Millwall 16:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
