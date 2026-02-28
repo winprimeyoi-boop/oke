@@ -78,29 +78,36 @@ async function fetchAndFormatClearKey(licenseUrl) {
 
 async function getWorkingProxy() {
     console.log(`[0/3] Fetching Indonesian proxies to bypass Datacenter Block...`);
+    let allProxies = new Set();
+    
     try {
-        const proxyListUrl = 'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=id&ssl=all&anonymity=all';
-        const res = await fetch(proxyListUrl);
-        const text = await res.text();
-        const proxies = text.split('\n').map(p => p.trim()).filter(Boolean);
-        return proxies;
-    } catch (e) {
-        console.log(`Failed to fetch proxies:`, e.message);
-        return [];
-    }
+        const url1 = 'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=id&ssl=all&anonymity=all';
+        const res1 = await fetch(url1);
+        const text1 = await res1.text();
+        text1.split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
+    } catch (e) {}
+
+    try {
+        const url2 = 'https://www.proxy-list.download/api/v1/get?type=http&country=ID';
+        const res2 = await fetch(url2);
+        const text2 = await res2.text();
+        text2.split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
+    } catch (e) {}
+
+    const proxyList = Array.from(allProxies);
+    console.log(`  -> Found ${proxyList.length} proxies.`);
+    return proxyList;
 }
 
 async function fetchWithRetry(url, options, proxies) {
     const HttpsProxyAgent = require('https-proxy-agent');
     const fetchWithAgent = require('node-fetch');
-    const { execSync } = require('child_process');
+    const { spawnSync } = require('child_process');
 
     // Coba menggunakan CURL (untuk bypass Cloudflare TLS Fingerprint pada Node.js)
     try {
         console.log(`  -> Trying system curl (TLS Bypass)...`);
         
-        // Use an array of arguments for spawnSync to avoid shell escaping issues on Ubuntu
-        const { spawnSync } = require('child_process');
         const args = [
             '-sL', url,
             '-H', `User-Agent: ${options.headers['User-Agent']}`,
@@ -120,10 +127,7 @@ async function fetchWithRetry(url, options, proxies) {
                 return text;
             }
         }
-        console.log(`  -> Curl failed or returned non-M3U. Stderr: ${curlResult.stderr ? curlResult.stderr.substring(0, 100) : 'none'}`);
-    } catch (e) {
-        console.log(`  -> Curl execution error: ${e.message}`);
-    }
+    } catch (e) {}
 
     // Coba tanpa proxy pakai Node Fetch
     try {
@@ -135,32 +139,51 @@ async function fetchWithRetry(url, options, proxies) {
         if (text.startsWith("#EXTM3U")) return text;
     } catch (e) {}
 
-    // Kalau gagal, coba pakai proxy
-    for (let i = 0; i < Math.min(20, proxies.length); i++) {
-        const proxyUrl = `http://${proxies[i]}`;
-        console.log(`  -> Trying proxy: ${proxyUrl}...`);
-        
-        try {
-            const agent = new HttpsProxyAgent(proxyUrl);
-            const proxyOptions = { ...options, agent, timeout: 5000 };
-            
-            const res = await fetchWithAgent(url, proxyOptions);
-            if (!res.ok) continue;
+    if (proxies.length === 0) {
+        throw new Error("No proxies available to bypass Cloudflare.");
+    }
 
-            let text = await res.text();
+    console.log(`  -> Racing ${proxies.length} proxies concurrently...`);
+    
+    return new Promise((resolve, reject) => {
+        let pending = proxies.length;
+        let resolved = false;
+
+        const checkData = (text) => {
             text = text.trim();
             if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+            return text.startsWith("#EXTM3U") ? text : null;
+        };
 
-            if (text.startsWith("#EXTM3U")) {
-                console.log(`  -> Success with proxy ${proxies[i]}!`);
-                return text;
-            }
-        } catch (e) {
-            // Abaikan error timeout/koneksi proxy
+        for (let i = 0; i < proxies.length; i++) {
+            const proxyUrl = `http://${proxies[i]}`;
+            const agent = new HttpsProxyAgent(proxyUrl);
+            const proxyOptions = { ...options, agent, timeout: 15000 };
+
+            fetchWithAgent(url, proxyOptions)
+                .then(async (res) => {
+                    if (resolved) return;
+                    if (!res.ok) throw new Error("Status " + res.status);
+                    
+                    const text = await res.text();
+                    const validM3u = checkData(text);
+                    
+                    if (validM3u) {
+                        resolved = true;
+                        console.log(`  -> Success with proxy ${proxies[i]}!`);
+                        resolve(validM3u);
+                    } else {
+                        throw new Error("Not M3U format");
+                    }
+                })
+                .catch((err) => {
+                    pending--;
+                    if (pending === 0 && !resolved) {
+                        reject(new Error("Invalid M3U received or blocked by all proxies."));
+                    }
+                });
         }
-    }
-    
-    throw new Error("Invalid M3U received or blocked by all proxies.");
+    });
 }
 
 async function generateOfflineM3U() {
