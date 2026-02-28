@@ -8,71 +8,100 @@ const CLEARKEY_PROXY_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMe
 /**
  * Helper to fetch ClearKey JSON from provider and format it as kid:key
  */
-async function fetchAndFormatClearKey(licenseUrl) {
-    try {
-        // Create a dummy payload. Most providers just need ANY kids array to respond with the full key rotation.
-        const payload = { kids: ["W2uFp1vEQKigw1q1yU_9Wg"], type: "temporary" };
+async function fetchAndFormatClearKey(licenseUrl, retries = 3) {
+    for (let attempt = 1; attempt <= retries; attempt++) {
+        try {
+            // Create a dummy payload. Most providers just need ANY kids array to respond with the full key rotation.
+            const payload = { kids: ["W2uFp1vEQKigw1q1yU_9Wg"], type: "temporary" };
 
-        let headers = {
-            'Content-Type': 'application/json',
-            'User-Agent': CLEARKEY_PROXY_UA
-        };
-
-        if (licenseUrl.includes('semar.my.id')) {
-            try {
-                const urlObj = new URL(licenseUrl);
-                headers['Referer'] = urlObj.origin + '/';
-                headers['Origin'] = urlObj.origin;
-            } catch (e) {
-                // Fallback
-                headers['Referer'] = 'https://sports.semar.my.id/';
-                headers['Origin'] = 'https://sports.semar.my.id';
-            }
-        }
-
-        const res = await fetch(licenseUrl, {
-            method: 'POST',
-            headers: headers,
-            body: JSON.stringify(payload)
-        });
-
-        if (!res.ok) {
-            console.log(`\n  -> [Provider Error] HTTP ${res.status} ${res.statusText} on ${licenseUrl}`);
-            const errText = await res.text().catch(()=>'');
-            if (errText) console.log(`  -> [Provider Body] ${errText.substring(0, 150)}`);
-            return licenseUrl; // Fallback to original if failed
-        }
-
-        const data = await res.json();
-        
-        if (data.keys && data.keys.length > 0) {
-            // Helper to decode Base64Url into raw Hex string
-            const base64ToHex = (base64) => {
-                const b64 = base64.replace(/-/g, '+').replace(/_/g, '/');
-                const raw = atob(b64);
-                let hex = '';
-                for (let i = 0; i < raw.length; i++) {
-                    const hexChar = raw.charCodeAt(i).toString(16);
-                    hex += (hexChar.length === 2 ? hexChar : '0' + hexChar);
-                }
-                return hex;
+            let headers = {
+                'Content-Type': 'application/json',
+                'User-Agent': CLEARKEY_PROXY_UA
             };
 
-            const keyPairs = data.keys.map(k => {
-                if (k.kty === 'oct' && k.k && k.kid) {
-                    return `${base64ToHex(k.kid)}:${base64ToHex(k.k)}`;
+            if (licenseUrl.includes('semar.my.id')) {
+                try {
+                    const urlObj = new URL(licenseUrl);
+                    headers['Referer'] = urlObj.origin + '/';
+                    headers['Origin'] = urlObj.origin;
+                } catch (e) {
+                    // Fallback
+                    headers['Referer'] = 'https://sports.semar.my.id/';
+                    headers['Origin'] = 'https://sports.semar.my.id';
                 }
-                return null;
-            }).filter(Boolean);
-
-            if (keyPairs.length > 0) {
-                return keyPairs.join(','); // E.g., "kid1:key1,kid2:key2"
             }
+
+            const { spawnSync } = require('child_process');
+            
+            const curlArgs = [
+                '-sL', licenseUrl,
+                '-X', 'POST',
+                '-H', `Content-Type: ${headers['Content-Type']}`,
+                '-H', `User-Agent: ${headers['User-Agent']}`,
+                '-H', `Referer: ${headers['Referer']}`,
+                '-H', `Origin: ${headers['Origin']}`,
+                '-d', JSON.stringify(payload),
+                '--compressed'
+            ];
+
+            const curlResult = spawnSync('curl', curlArgs, { encoding: 'utf-8' });
+            
+            if (curlResult.status !== 0 || !curlResult.stdout || curlResult.stdout.includes('Cloudflare') || curlResult.stdout.includes('<html')) {
+                // If it returned HTML or failed curl, likely a 502/Cloudflare block
+                if (attempt < retries) {
+                    await new Promise(r => setTimeout(r, 1500 * attempt));
+                    continue;
+                }
+                console.log(`\n  -> [Provider Error] Curl failed or got HTML on ${licenseUrl} (Attempt ${attempt}/${retries})`);
+                if (curlResult.stdout) console.log(`  -> [Provider Body] ${curlResult.stdout.substring(0, 150).replace(/\n/g, ' ')}`);
+                return licenseUrl;
+            }
+
+            let data;
+            try {
+                data = JSON.parse(curlResult.stdout);
+            } catch (e) {
+                if (attempt < retries) {
+                    await new Promise(r => setTimeout(r, 1500 * attempt));
+                    continue;
+                }
+                console.log(`\n  -> [Provider Error] Invalid JSON on ${licenseUrl}`);
+                return licenseUrl;
+            }
+            
+            if (data.keys && data.keys.length > 0) {
+                // Helper to decode Base64Url into raw Hex string
+                const base64ToHex = (base64) => {
+                    const b64 = base64.replace(/-/g, '+').replace(/_/g, '/');
+                    const raw = atob(b64);
+                    let hex = '';
+                    for (let i = 0; i < raw.length; i++) {
+                        const hexChar = raw.charCodeAt(i).toString(16);
+                        hex += (hexChar.length === 2 ? hexChar : '0' + hexChar);
+                    }
+                    return hex;
+                };
+
+                const keyPairs = data.keys.map(k => {
+                    if (k.kty === 'oct' && k.k && k.kid) {
+                        return `${base64ToHex(k.kid)}:${base64ToHex(k.k)}`;
+                    }
+                    return null;
+                }).filter(Boolean);
+
+                if (keyPairs.length > 0) {
+                    return keyPairs.join(','); // E.g., "kid1:key1,kid2:key2"
+                }
+            }
+            return licenseUrl;
+        } catch (e) {
+            if (attempt < retries) {
+                await new Promise(r => setTimeout(r, 1000 * attempt));
+                continue;
+            }
+            console.error(`Failed to fetch key for ${licenseUrl} after ${retries} attempts:`, e.message);
+            return licenseUrl;
         }
-        return licenseUrl;
-    } catch (e) {
-        console.error(`Failed to fetch key for ${licenseUrl}:`, e.message);
-        return licenseUrl;
     }
 }
 
@@ -208,9 +237,30 @@ async function generateOfflineM3U() {
         
         const lines = m3uText.split('\n');
         let processedLines = [];
+        let skipChannel = false;
         
         for (let i = 0; i < lines.length; i++) {
             let line = lines[i].trim();
+            if (!line) continue;
+            
+            // Clean up the main EXTM3U header by removing url-tvg
+            if (line.startsWith('#EXTM3U')) {
+                processedLines.push('#EXTM3U');
+                continue;
+            }
+
+            // Filter out specific SemarTV Telegram channels
+            if (line.startsWith('#EXTINF:')) {
+                if (line.includes('https://t.me/semar_25')) {
+                    skipChannel = true;
+                    continue;
+                } else {
+                    skipChannel = false;
+                }
+            }
+
+            // Skip all lines associated with the excluded channel
+            if (skipChannel) continue;
             
             // Look for ClearKey KODIPROP properties
             if (line.startsWith('#KODIPROP:inputstream.adaptive.license_key=')) {
