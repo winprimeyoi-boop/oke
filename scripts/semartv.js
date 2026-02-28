@@ -98,17 +98,31 @@ async function fetchWithRetry(url, options, proxies) {
     // Coba menggunakan CURL (untuk bypass Cloudflare TLS Fingerprint pada Node.js)
     try {
         console.log(`  -> Trying system curl (TLS Bypass)...`);
-        const curlCmd = `curl -sL "${url}" -H "User-Agent: ${options.headers['User-Agent']}" -H "Accept: */*" -H "Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7" -H "Connection: keep-alive" --compressed`;
         
-        let text = execSync(curlCmd, { stdio: 'pipe' }).toString();
-        text = text.trim();
-        if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
-        if (text.startsWith("#EXTM3U")) {
-            console.log(`  -> Success with system curl!`);
-            return text;
+        // Use an array of arguments for spawnSync to avoid shell escaping issues on Ubuntu
+        const { spawnSync } = require('child_process');
+        const args = [
+            '-sL', url,
+            '-H', `User-Agent: ${options.headers['User-Agent']}`,
+            '-H', 'Accept: */*',
+            '-H', 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7',
+            '-H', 'Connection: keep-alive',
+            '--compressed'
+        ];
+        
+        const curlResult = spawnSync('curl', args, { encoding: 'utf-8' });
+        
+        if (curlResult.stdout) {
+            let text = curlResult.stdout.trim();
+            if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+            if (text.startsWith("#EXTM3U")) {
+                console.log(`  -> Success with system curl!`);
+                return text;
+            }
         }
+        console.log(`  -> Curl failed or returned non-M3U. Stderr: ${curlResult.stderr ? curlResult.stderr.substring(0, 100) : 'none'}`);
     } catch (e) {
-        console.log(`  -> Curl failed or returned non-M3U`);
+        console.log(`  -> Curl execution error: ${e.message}`);
     }
 
     // Coba tanpa proxy pakai Node Fetch
