@@ -266,8 +266,8 @@ async function generateOfflineM3U() {
             if (line.startsWith('#KODIPROP:inputstream.adaptive.license_key=')) {
                 let licenseUrl = line.substring('#KODIPROP:inputstream.adaptive.license_key='.length).trim();
                 
-                // If it's a web URL containing ck.php or clearkey or pidick.php or .kt, intercept it
-                if (licenseUrl && licenseUrl.startsWith('http') && (licenseUrl.includes('ck.php') || licenseUrl.includes('clearkey') || licenseUrl.includes('pidick.php') || licenseUrl.includes('.kt'))) {
+                // If it's a web URL containing ck.php or clearkey or pidick.php, intercept it. (Skip indick.kt because it throws 404)
+                if (licenseUrl && licenseUrl.startsWith('http') && (licenseUrl.includes('ck.php') || licenseUrl.includes('clearkey') || licenseUrl.includes('pidick.php'))) {
                     process.stdout.write(`Fetching key for URL -> ${licenseUrl.substring(0, 50)}... `);
                     
                     const hexKeyCombo = await fetchAndFormatClearKey(licenseUrl);
