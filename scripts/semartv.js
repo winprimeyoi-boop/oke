@@ -95,7 +95,10 @@ async function generateOfflineM3U() {
             m3uText = m3uText.slice(1);
         }
 
-        if (!m3uText.startsWith("#EXTM3U")) throw new Error("Invalid M3U received");
+        if (!m3uText.startsWith("#EXTM3U")) {
+            console.error("DEBUG: Received text preview ->", m3uText.substring(0, 500));
+            throw new Error("Invalid M3U received");
+        }
 
         console.log(`[2/3] Playlist downloaded. Sifting for ClearKey links and fetching keys...`);
         
@@ -130,9 +133,9 @@ async function generateOfflineM3U() {
             }
         }
 
-        const outputPath = './playlist_smart.m3u';
+        const outputPath = './playlist_offline_ready.m3u';
         fs.writeFileSync(outputPath, processedLines.join('\n'));
-        console.log(`\n[3/3] DONE! M3U has been written to: ${outputPath}`);
+        console.log(`\n[3/3] DONE! Offline M3U has been written to: ${outputPath}`);
         
     } catch (error) {
         console.error("Error generating offline M3U:", error);
