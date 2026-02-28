@@ -87,7 +87,13 @@ async function generateOfflineM3U() {
 
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         
-        const m3uText = await response.text();
+        let m3uText = await response.text();
+        
+        // Remove UTF-8 BOM if present
+        if (m3uText.charCodeAt(0) === 0xFEFF) {
+            m3uText = m3uText.slice(1);
+        }
+
         if (!m3uText.startsWith("#EXTM3U")) throw new Error("Invalid M3U received");
 
         console.log(`[2/3] Playlist downloaded. Sifting for ClearKey links and fetching keys...`);
