@@ -1,7 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"
-#EXTINF:-1 tvg-logo="" group-title="Saluran",0. https://t.me/semar_25
-#https://cdn.semar.my.id/
-https://web.semar.my.id/lapor/lapor.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3ce77324a3d4fa2a913b26cc1976052:17774f82a3b9e33ea7a149596acbb20f
@@ -876,10 +873,6 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgb9z2xzIvdPOAakcjq7xke72PuU_1v71HnSXIMwgpIQ5HjV8dQMQTW_U&s=10" group-title="Saluran Religi" ,TVMU HD
 https://e.siar.us/live/tvmu.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Live Event",0. https://t.me/semar_25
-#https://cdn.semar.my.id/
-https://web.semar.my.id/lapor/lapor.m3u8
-#https://sports.semar.my.id/get.php?id=tele.m3u8&auth=telesemar25
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ni_3C1wqWcw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgHvDp4ZaeFW3kEst-I00hiwB2iQ" roup-title="Live Event", Live FIVB Men U21 Pool 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
