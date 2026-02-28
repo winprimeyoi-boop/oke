@@ -85,7 +85,8 @@ async function generateOfflineM3U() {
                 "User-Agent": USER_AGENT,
                 "Accept": "*/*",
                 "Accept-Encoding": "gzip",
-                "Connection": "Keep-Alive"
+                "Connection": "Keep-Alive",
+                "X-Forwarded-For": "114.125.120.100" // Spoof Indonesia Telkomsel IP
             },
             redirect: "follow"
         });
