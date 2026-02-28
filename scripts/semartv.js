@@ -81,7 +81,12 @@ async function generateOfflineM3U() {
     
     try {
         const response = await fetch(PLAYLIST_URL, {
-            headers: { "User-Agent": USER_AGENT },
+            headers: { 
+                "User-Agent": USER_AGENT,
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip",
+                "Connection": "Keep-Alive"
+            },
             redirect: "follow"
         });
 
