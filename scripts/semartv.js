@@ -88,6 +88,7 @@ async function generateOfflineM3U() {
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         
         let m3uText = await response.text();
+        m3uText = m3uText.trim();
         
         // Remove UTF-8 BOM if present
         if (m3uText.charCodeAt(0) === 0xFEFF) {
@@ -129,9 +130,9 @@ async function generateOfflineM3U() {
             }
         }
 
-        const outputPath = './playlist_offline_ready.m3u';
+        const outputPath = './playlist_smart.m3u';
         fs.writeFileSync(outputPath, processedLines.join('\n'));
-        console.log(`\n[3/3] DONE! Offline M3U has been written to: ${outputPath}`);
+        console.log(`\n[3/3] DONE! M3U has been written to: ${outputPath}`);
         
     } catch (error) {
         console.error("Error generating offline M3U:", error);
