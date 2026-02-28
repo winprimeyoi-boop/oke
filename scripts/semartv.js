@@ -237,12 +237,14 @@ async function generateOfflineM3U() {
             }
         }
 
-        const outputPath = './playlist_offline_ready.m3u';
+        const outputPath = 'semar.m3u8';
         fs.writeFileSync(outputPath, processedLines.join('\n'));
         console.log(`\n[3/3] DONE! Offline M3U has been written to: ${outputPath}`);
+        process.exit(0);
         
     } catch (error) {
         console.error("Error generating offline M3U:", error);
+        process.exit(1);
     }
 }
 
