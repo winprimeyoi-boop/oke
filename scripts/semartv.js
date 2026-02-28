@@ -76,35 +76,79 @@ async function fetchAndFormatClearKey(licenseUrl) {
     }
 }
 
+async function getWorkingProxy() {
+    console.log(`[0/3] Fetching Indonesian proxies to bypass Datacenter Block...`);
+    try {
+        const proxyListUrl = 'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=id&ssl=all&anonymity=all';
+        const res = await fetch(proxyListUrl);
+        const text = await res.text();
+        const proxies = text.split('\n').map(p => p.trim()).filter(Boolean);
+        return proxies;
+    } catch (e) {
+        console.log(`Failed to fetch proxies:`, e.message);
+        return [];
+    }
+}
+
+async function fetchWithRetry(url, options, proxies) {
+    const HttpsProxyAgent = require('https-proxy-agent');
+    const fetchWithAgent = require('node-fetch');
+
+    // Coba tanpa proxy dulu (siapa tahu lolos)
+    try {
+        console.log(`  -> Trying direct connection...`);
+        const res = await fetch(url, options);
+        let text = await res.text();
+        text = text.trim();
+        if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+        if (text.startsWith("#EXTM3U")) return text;
+    } catch (e) {}
+
+    // Kalau gagal, coba pakai proxy
+    for (let i = 0; i < Math.min(20, proxies.length); i++) {
+        const proxyUrl = `http://${proxies[i]}`;
+        console.log(`  -> Trying proxy: ${proxyUrl}...`);
+        
+        try {
+            const agent = new HttpsProxyAgent(proxyUrl);
+            const proxyOptions = { ...options, agent, timeout: 5000 };
+            
+            const res = await fetchWithAgent(url, proxyOptions);
+            if (!res.ok) continue;
+
+            let text = await res.text();
+            text = text.trim();
+            if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+
+            if (text.startsWith("#EXTM3U")) {
+                console.log(`  -> Success with proxy ${proxies[i]}!`);
+                return text;
+            }
+        } catch (e) {
+            // Abaikan error timeout/koneksi proxy
+        }
+    }
+    
+    throw new Error("Invalid M3U received or blocked by all proxies.");
+}
+
 async function generateOfflineM3U() {
     console.log(`[1/3] Downloading live playlist from: ${PLAYLIST_URL}`);
     
     try {
-        const response = await fetch(PLAYLIST_URL, {
+        const proxies = await getWorkingProxy();
+        
+        const fetchOptions = {
             headers: { 
                 "User-Agent": USER_AGENT,
                 "Accept": "*/*",
                 "Accept-Encoding": "gzip",
-                "Connection": "Keep-Alive",
-                "X-Forwarded-For": "114.125.120.100" // Spoof Indonesia Telkomsel IP
+                "Connection": "Keep-Alive"
             },
             redirect: "follow"
-        });
+        };
 
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        
-        let m3uText = await response.text();
-        m3uText = m3uText.trim();
-        
-        // Remove UTF-8 BOM if present
-        if (m3uText.charCodeAt(0) === 0xFEFF) {
-            m3uText = m3uText.slice(1);
-        }
-
-        if (!m3uText.startsWith("#EXTM3U")) {
-            console.error("DEBUG: Received text preview ->", m3uText.substring(0, 500));
-            throw new Error("Invalid M3U received");
-        }
+        const m3uText = await fetchWithRetry(PLAYLIST_URL, fetchOptions, proxies);
 
         console.log(`[2/3] Playlist downloaded. Sifting for ClearKey links and fetching keys...`);
         
