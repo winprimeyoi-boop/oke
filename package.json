@@ -12,8 +12,9 @@
     "harvest:all": "npm run harvest:sky && npm run harvest:vavoo && npm run harvest:sportzx && npm run harvest:lastminute && npm run harvest:semar"
   },
   "author": "Wins TV",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^2.7.0"
+  }
 }
-
-
-
