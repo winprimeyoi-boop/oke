@@ -100,7 +100,7 @@ async function getWorkingProxy() {
 }
 
 async function fetchWithRetry(url, options, proxies) {
-    const HttpsProxyAgent = require('https-proxy-agent');
+    const { HttpsProxyAgent } = require('https-proxy-agent');
     const fetchWithAgent = require('node-fetch');
     const { spawnSync } = require('child_process');
 
