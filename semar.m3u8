@@ -919,10 +919,59 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/TXpkKWpLnz9R1-7dJKG-p3ON_Bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914224/c95407.jpg" group-title="Live Event", Putra: Jakarta Garuda Jaya vs Medan Falcons Tirta Bhagasasi - Proliga 20:00 28 Februari 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IEZrTTmTzqkvWpDlzKD4NRiQsZM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4914225/f7a4b4.jpg" group-title="Live Event", Putri: Jakarta Livin Mandiri vs Jakarta Electric PLN Mobile - Proliga 20:00 01 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=da4f3c279a4acbc85953f193420c0c51:91633d3976e7b332935ce442c9aa78cc,d7a80658cbdb9089820e843f334abec4:ffa6d1ca95916e5bb44c9b74addc3440
-https://vidx.semar.my.id/19354.mpd?pepek=sZiEJuBrrQEdBnGPCTWqRxuJwsFO9ep5ZznhgzVY0kONyGGZg3G1OYM3dLKrctkdF6mMFepDP3pnq3TBsgfsT2IYwSZRdRyf4DtXKKgdF9usMt9GujQ1bGoKLZCDg7vj
+https://vidx.semar.my.id/19354.mpd?pepek=MYJ66V4Aj-aghOMKJ_2i_sqhoQ4fJds0KLrgkwtHFNwuvBjNY3xsywFX0SlPlbH7XN3nBmjQdD31D6F0zpiMSSOk8R8sbQBxnj1e-Tw7H1iJbkiU8SuDekNxcJUAusZb
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/z9zPpvwUQOOC-S9RX1Z8g_oreoE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4917525/a9c38b.jpg" group-title="Live Event", Kendal Tornado FC vs Persipura Jayapura - Pegadaian Championship 20:22 01 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b62f1b96fbb7da6782061dca7158481:1f1cf255f6aed03a22250bf69b00b20d
+https://vidx.semar.my.id/19354.mpd?pepek=4HHMhizdZC0W7D97dsYMkZpY-75FRS7hGFvj8Ycq251i4K4CXfGfXZ4S1sopSjageWdDQsds188fDJHD0SxJFXd8ji5b-2DAY6pIUxH_ZXoknOuajfMIYX3K57qTWm2H
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cwTp6goi5Z1ip9Gzr0HtT6L62FA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4918127/39be9d.jpg" group-title="Live Event", Persiba Balikpapan vs PSIS Semarang - Pegadaian Championship 20:22 01 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=20854&type=drm
+https://vidx.semar.my.id/19354.mpd?pepek=8tPVxragNZ5k2ScwAkV_cS_V3rJwDVgD7zko0mhWPTwDo01iuikIBSxPBOwNmXMxQqgGIehIfWMUiA51kR1OxK5X1CJHhu6i7LTiJxUOfG4AkGNGoUVY6vv9TCP-9hpr
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PvM6CFifaRfvr6TJdkNW8cV8p4M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4917526/03fcdb.jpg" group-title="Live Event", Persela Lamongan vs PSS Sleman - Pegadaian Championship 20:22 01 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=20833&type=drm
+https://vidx.semar.my.id/19354.mpd?pepek=tw4vePC4y5QnLfXnI5f69KGsatpz-Yn5FwjHppnzmoAJthsUgK8nVkN9smK5zvxxMNTPVWL5SjPm83sQ8HS-wl7-GgZx-U_8Kfg6vQ2Ws9uTcWOii-GHV6mNNVvp9shi
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1Bfwrw_LapE6mmPeMPD_ycPRES0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4918128/f9eb11.jpg" group-title="Live Event", PERSIS vs PERSIK Kediri - BRI Super League 20:22 01 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c
+https://vidx.semar.my.id/19354.mpd?pepek=RKMZUonUDVkI0lVdVYEkSxnCuZTbUyFMKtGSoXfiTOHvwHiKrKTvStIHnASBJ2SHljbk31dJKPiAogZoaPntY0P2hrjRDdoHjg8hl_JjQxSGniKp2tMGpq-3AjtBvqts
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/taA0Udz4RxxhS8SrxLhWp2b-VEA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4915734/c36c10.jpg" group-title="Live Event", Persekat Tegal vs Adhyaksa FC - Pegadaian Championship 20:22 01 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://vidx.semar.my.id/19354.mpd?pepek=VsBFJxdfsHYh6u0k1sHiaHk25rGiyy_XT-_aKVeyq-DQeHux0By_qwkqT2khcNht75tcMXSp9CMwgwdlvoZl-wOSejVnNgqdOXhPVjhEWbFDIwQbNMYVMk45FUHQH_ka
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Bp41jiNYFdjS85UP9KdYN_rq7bo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4917524/81435b.jpg" group-title="Live Event", Deltras FC vs PS. Barito Putera - Pegadaian Championship 20:22 01 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=122f71256201ba13e0cc26a88ad86ae7:25bbe7943964f5208f29bc8d1c991460
+https://vidx.semar.my.id/19354.mpd?pepek=hb5ZpI7jyoaK2xS0DP60FSJmrolR3maxTsnNJwuGz9LEV1wV6QzZAcJbBs49uio6_tY1LIQcZmkEZAOZmrunD_0RiISYh9smliLTL9mHKZEK3btRU6Whj4Sebcpwi3Ms
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kK2-M3l52zyI8FQ2Pej0owdPtzg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4916871/f76174.jpg" group-title="Live Event", Dewa United Banten FC vs Bhayangkara Presisi Lampung FC - BRI Super League 20:30 01 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2946a6c0d9f37ebb75bc55f881db0b62:2772639062588ba567e959d077e26137,4ae80d1aad61093d8c3178c3789b2c57:583ea6c4437ace03fda4338b988506ee,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,fc865c4db2ab0f9ff2a8a07d5b882725:cd00ca350a49c52748debd87439f723d,1af8aa56af16ad7b0bc7347c5f0d1b8c:61a1d2e5bf2e14466d995edb1e379d6e,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
+https://vidx.semar.my.id/19354.mpd?pepek=vplOTjRkzfGimJdwYvZoHYwM0VX6eVb72cA7UsBh2l7XuPFXLCTiP2GJDfzJLQ6h4CqZbsX_YrABsc1Vpg1XRj4mbjO2Aqv6Uw7NmKaI27oDyaEjFNpyAvuNK8g5ivR2
