@@ -164,26 +164,32 @@ https://bd-mc-flive.fancode.com/delhi/140451_english_dash_38996_1drmta-di_h264/i
 #EXTINF:-1 tvg-id="newyorkknicksvssanantoniospurs1900sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",New York Knicks vs San Antonio Spurs 19:00 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
 
+#EXTINF:-1 tvg-id="brooklynnetsvsclevelandcavaliers2130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Brooklyn Nets vs Cleveland Cavaliers 21:30 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
 #EXTINF:-1 tvg-id="chicagobullsvsmilwaukeebucks2130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Chicago Bulls vs Milwaukee Bucks 21:30 (SD SERVER)
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="denvernuggetsvstimberwolves2130sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Denver Nuggets vs Timberwolves 21:30 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
 
 #EXTINF:-1 tvg-id="indianapacersvsmemphisgrizzlies2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Indiana Pacers vs Memphis Grizzlies 23:00 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
 #EXTINF:-1 tvg-id="atlantahawksvstrailblazers0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Atlanta Hawks vs Trail Blazers 00:00 (SD SERVER)
-https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
-
-#EXTINF:-1 tvg-id="orlandomagicvsdetroitpistons0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Detroit Pistons 00:00 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
 
+#EXTINF:-1 tvg-id="orlandomagicvsdetroitpistons0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Detroit Pistons 00:00 (SD SERVER)
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+
 #EXTINF:-1 tvg-id="bostoncelticsvsphiladelphia76ers0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Boston Celtics vs Philadelphia 76ers 02:00 (SD SERVER)
-https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
 
 #EXTINF:-1 tvg-id="dallasmavericksvsoklahomacitythunder0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Dallas Mavericks vs Oklahoma City Thunder 02:00 (SD SERVER)
-https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="clippersvsneworleanspelicans0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Clippers vs New Orleans Pelicans 03:00 (SD SERVER)
+https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
 
 #EXTINF:-1 tvg-id="realbetisvssevilla1830laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Real Betis vs Sevilla 18:30 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -219,9 +225,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="arsenalvschelsea1730peacockaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Chelsea 17:30 (PEACOCK - AQ)
-https://roseaylrsiu.s3.us-east-1.amazonaws.com/manu.m3u8
 
 #EXTINF:-1 tvg-id="arsenalvschelsea1730nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Chelsea 17:30 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
