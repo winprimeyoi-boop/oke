@@ -234,6 +234,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
+#EXTINF:-1 tvg-id="rayovallecanovsrealoviedo1900skylaligamx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Rayo Vallecano vs Real Oviedo 19:00 (SKY LALIGA MX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb80e1e7d7598eaf98b1dbbe6dc14ee9:103ae55c7948ca1d159d6743619d26c4
+https://nog-live1-ott.izzigo.tv/12/out/u/dash/SKY-SPORTS-16-HD/default.mpd
+
 #EXTINF:-1 tvg-id="realsociedadvsathleticclub2100itv4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa Del Rey 🇪🇸",Real Sociedad vs Athletic Club 21:00 (ITV 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a5135975978757b3458bb5b3b9dbf5e:eab16719fa7727ab371bd75aeaca9229
@@ -279,16 +284,3 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 
 #EXTINF:-1 tvg-id="gaziantepfkvsfenerbahe1830asporturkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Türkiye Kupası",Gaziantep FK vs Fenerbah e 18:30 (ASpor Turkey)
 https://live.alilicloud.com/live/077e562940000a7f6068968dd0b18de6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="seoulvsvisselkobe1100sport1fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Champions Elite",Seoul vs Vissel Kobe 11:00 (Sport 1 FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
-https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd
-
-#EXTINF:-1 tvg-id="seoulvsvisselkobe1100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Champions Elite",Seoul vs Vissel Kobe 11:00 (SportzX Live)
-https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8
-
-#EXTINF:-1 tvg-id="jdtvssanfreccehiroshima1315sport1fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Champions Elite",JDT vs Sanfrecce Hiroshima 13:15 (Sport 1 FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=032ba9e7db644873861490a3afc863d8:fd29ed4731ecafba696ac68cbe870008
-https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561204/index.mpd
