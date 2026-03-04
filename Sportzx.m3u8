@@ -268,3 +268,8 @@ https://live.alilicloud.com/live/c65adf11139c814108c2c83cb1b01549/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gambaosakavsratchaburi1100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Champions Two",Gamba Osaka vs Ratchaburi 11:00 (SportzX Live)
 https://live.alilicloud.com/live/24a550e4fe1f7b07836d2da7f8dd708d/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vietnamvsindia1200ligue1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Asian Women Cup",Vietnam vs India 12:00 (Ligue1 )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2088/index.mpd
