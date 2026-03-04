@@ -919,24 +919,10 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hTK0DvDmJMDIkl9YAx6UtRwhlTM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937706/36bd5e.jpg" group-title="Live Event", Jelang Kick Off - PERSIJA vs Borneo FC Samarinda - BRI Super League 20:00 03 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/h1z399BjP60rBE8k-SeTbqyFLEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4939203/170611.jpg" group-title="Live Event", Semen Padang FC vs PSIM Jogja - BRI Super League 20:30 04 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19355&type=drm
-https://vidx.semar.my.id/19354.mpd?pepek=TmQFRyLAQF4Vczr-MU2E1PvFP0qK2J89aHA44zYr3hJwdnS0j0w0kY5bZyz0eqwri9ydinuf3hffcoPHOxN7RnsT61LkncEChYrssufuI2vGMWjrSp6qPEZZYgiul-Va
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jyvCD08goiepJI3L6z0kFxOfznI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937707/a7bb97.jpg" group-title="Live Event", PERSIJA vs Borneo FC Samarinda - BRI Super League 20:30 03 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2946a6c0d9f37ebb75bc55f881db0b62:2772639062588ba567e959d077e26137,4ae80d1aad61093d8c3178c3789b2c57:583ea6c4437ace03fda4338b988506ee,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,fc865c4db2ab0f9ff2a8a07d5b882725:cd00ca350a49c52748debd87439f723d,1af8aa56af16ad7b0bc7347c5f0d1b8c:61a1d2e5bf2e14466d995edb1e379d6e,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
-https://vidx.semar.my.id/19354.mpd?pepek=Ya8f52djI2IITMb3Z0z2WtrTVmq2SKfkI9V0Iec5CkTqnVeeUlfeKOgetPVCaYvaR3PrvmmD67PCfavi21I5DyjWiqP2VJWLKwBpqqd6l295m6xKjE67KHKU5sirJSAh
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oa-nN2158_k7I0tjO27u3I_Xt-4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4937709/7ba3bc.jpg" group-title="Live Event", Madura United FC vs Malut United FC - BRI Super League 20:30 03 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a8b52177b1f34f8ba99cdc48b46e716:24b391a266eb4893e65f7b4347701af6
-https://vidx.semar.my.id/19354.mpd?pepek=dCBY8mgOvxbor3Kkav7XZAXtqwLIo-YPp2hgfZzZF_Wj1prcA18G8_dq5_CaAbVp74BICCoX9EY8jb5pTnCH6rE_98VNSILVwyqWx6794Ip-fLU-oqsQWFU75UXmsEoY
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://vidx.semar.my.id/19354.mpd?pepek=8ZzruB348BjJW4HlbMoBdBPdsoSS1tehjMdqiiYXCVv_YHPUrE0UoH9UuVbeRZg5qcqOoGYvlkCAp3XoSeknWY6w6U1xs_lAijjYa-TAq69y1tMQq7Tto3JZtuchxEnq
