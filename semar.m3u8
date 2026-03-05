@@ -919,10 +919,17 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/h1z399BjP60rBE8k-SeTbqyFLEE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4939203/170611.jpg" group-title="Live Event", Semen Padang FC vs PSIM Jogja - BRI Super League 20:30 04 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/R9A1D6bHgAVBqvKNNIjsJor4hXE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4939754/9c07ca.jpg" group-title="Live Event", PERSIJAP vs PERSIS - BRI Super League 20:00 05 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://vidx.semar.my.id/19354.mpd?pepek=8ZzruB348BjJW4HlbMoBdBPdsoSS1tehjMdqiiYXCVv_YHPUrE0UoH9UuVbeRZg5qcqOoGYvlkCAp3XoSeknWY6w6U1xs_lAijjYa-TAq69y1tMQq7Tto3JZtuchxEnq
+https://vidx.semar.my.id/19354.mpd?pepek=wNFXL8v5ZAlvtWbwULHObJ9ZpAdMnf1sFt9JXvh922Rq0qM_0EhsNgeZQxu9HhcoWKHdldOWrTruWUNhAowODZrDU26p7n2uzxv4RbU9v-Sbb7cbuOGjr7AUU3VFHIGX
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L48dhVRG9SeSLNfMBwyvLDn3sb0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4939756/e03516.jpg" group-title="Live Event", PERSIK Kediri vs PSBS Biak - BRI Super League 20:22 05 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd15b55f9ff4114706fe4965bd37d61:339e3c4c3d51194cc5ff4a64879a9d16,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c
+https://vidx.semar.my.id/19354.mpd?pepek=8UHkID5MZUTsPrKaR4zRqvJn8WRZrhfaZ3xql_ZQ0IBfafCqKQ3z_CBoa2EJ5zLSzld2GaaKsHgCNlBnQsu58mQx5bj-1eeJIziHEvhkRckur5ihWmnsW8Sme1AYsK1G
