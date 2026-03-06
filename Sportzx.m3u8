@@ -221,16 +221,21 @@ https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
 https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="denvernuggetsvsnewyorkknicks0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Denver Nuggets vs New York Knicks 03:00 (SD SERVER)
-https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
 #EXTINF:-1 tvg-id="phoenixsunsvsneworleanspelicans0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Phoenix Suns vs New Orleans Pelicans 03:00 (SD SERVER)
-https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 
 #EXTINF:-1 tvg-id="spursvslosangelesclippers0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Spurs vs Los Angeles Clippers 03:30 (SD SERVER)
-https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 
 #EXTINF:-1 tvg-id="lakersvsindianapacers0430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Lakers vs Indiana Pacers 04:30 (SD SERVER)
 https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="detroitredwingsvsfloridapanthers0100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Detroit Red Wings vs Florida Panthers 01:00 (Premier Sports)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 tvg-id="celtavigovsrealmadrid2100laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Celta Vigo vs Real Madrid 21:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -406,5 +411,8 @@ https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 #EXTINF:-1 tvg-id="baakehirfkvsgztepe1400beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Ba ak ehir FK vs G ztepe 14:00 (beIN SPORTS)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
-#EXTINF:-1 tvg-id="beiktavsgalatasaray1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Be ikta  vs Galatasaray 18:00 (SportzX Live)
-https://live.alilicloud.com/live/95c510b43e1f75888a5e6b661646035b/playlist.m3u8
+#EXTINF:-1 tvg-id="beiktavsgalatasaray1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Be ikta  vs Galatasaray 18:00 (beIN SPORTS)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+
+#EXTINF:-1 tvg-id="beiktavsgalatasaray1800beinsportsfr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Be ikta  vs Galatasaray 18:00 (beIN SPORTS FR)
+https://smarthard.click/hls/Jih7RNQzpjI8/index.m3u8
