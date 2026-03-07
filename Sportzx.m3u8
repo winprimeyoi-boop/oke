@@ -281,18 +281,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
 https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="rbleipzigvsfcaugsburg1530skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",RB Leipzig vs FC Augsburg 15:30 (SKY BUNDESLIGA)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
-
-#EXTINF:-1 tvg-id="rbleipzigvsfcaugsburg1530sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",RB Leipzig vs FC Augsburg 15:30 (SportzX Live)
-https://live.alilicloud.com/live/68eeb46c4ba04a09c526698d2019c55d/playlist.m3u8
-
 #EXTINF:-1 tvg-id="atalantavsudinese1800beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Atalanta vs Udinese 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 tvg-id="atalantavsudinese1800elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Atalanta vs Udinese 18:00 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD6414/index.mpd
 
 #EXTINF:-1 tvg-id="juventusvspisa2045beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Juventus vs Pisa 20:45 (beIN ENGLISH)
@@ -308,27 +304,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #EXTINF:-1 tvg-id="juventusvspisa2045elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Juventus vs Pisa 20:45 (ELEVEN SPORTS)
 https://bbb.exoadash.com/TVD6414/index.mpd
 
-#EXTINF:-1 tvg-id="heidenheimvshoffenheim1530novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Hoffenheim 15:30 (NOVA SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD2709/index.mpd
-
-#EXTINF:-1 tvg-id="heidenheimvshoffenheim1530sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Hoffenheim 15:30 (SportzX Live)
-https://live.alilicloud.com/live/a41154b6e18c1424c4923b2adaaa30b3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="freiburgvsbayerleverkusen1530psnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayer Leverkusen 15:30 (PSN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3501bd323a6a35c28eb7654bf298b9aa:2db4c8089d627e1b2c480c57baa86a7b
-https://cdn3.skygo.mn/live/disk1/SPSFight/DASH-FTA/SPSFight.mpd
-
-#EXTINF:-1 tvg-id="freiburgvsbayerleverkusen1530elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayer Leverkusen 15:30 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6414/index.mpd
-
-#EXTINF:-1 tvg-id="freiburgvsbayerleverkusen1530sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayer Leverkusen 15:30 (SportzX Live)
-https://live.alilicloud.com/live/86d53b7a32eb9e97e0dd351b7896905a/playlist.m3u8
-
 #EXTINF:-1 tvg-id="klnvsborussiadortmund1830beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",K ln vs Borussia Dortmund 18:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -339,14 +314,6 @@ https://bbb.exoadash.com/TVD6411/index.mpd
 
 #EXTINF:-1 tvg-id="klnvsborussiadortmund1830novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",K ln vs Borussia Dortmund 18:30 (NOVA SPORTS)
 https://bbb.exoadash.com/TVD2709/index.mpd
-
-#EXTINF:-1 tvg-id="mainz05vsvfbstuttgart1530elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Mainz 05 vs VfB Stuttgart 15:30 (ELEVEN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD6411/index.mpd
-
-#EXTINF:-1 tvg-id="mainz05vsvfbstuttgart1530sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Mainz 05 vs VfB Stuttgart 15:30 (SportzX Live)
-https://live.alilicloud.com/live/8a5fb7a51add9d7868546e4b103b3779/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nantesvsangers1700ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Nantes vs Angers 17:00 (Ligue1  HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -378,12 +345,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="wolfsburgvshamburger1530skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Hamburger 15:30 (SKY BUNDESLIGA)
-https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
-
-#EXTINF:-1 tvg-id="wolfsburgvshamburger1530sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Hamburger 15:30 (SportzX Live)
-https://live.alilicloud.com/live/69b48e0b2cfd93dba3e0f56b492787c7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="beiktavsgalatasaray1800beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Be ikta  vs Galatasaray 18:00 (beIN SPORTS)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
