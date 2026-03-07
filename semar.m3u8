@@ -920,17 +920,31 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oTibOZDSCNtPrFQZ2I1t-TN-zCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4939942/b32815.jpg" group-title="Live Event", Jelang Kick Off - Arema FC vs Bali United FC - BRI Super League 20:00 06 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lsJ2z7q9Y02UePyzEQJ7vZUpS_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4940011/0d76d2.jpg" group-title="Live Event", Malut United FC vs PSM Makassar - BRI Super League 19:00 07 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fd15b55f9ff4114706fe4965bd37d61:339e3c4c3d51194cc5ff4a64879a9d16,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c
+https://vidx.semar.my.id/19354.mpd?pepek=S_l4VS0ZL-aJs1yxVIA1AWR2br8c7aAn1QJ6lHtNDI2C-ZlKfUPM6dE8xp7JHV6sM2tyZ2X-gb3miohBLMyDzOfDZ2tM9onFJxH6DmIIUij_TZuelarsiv4x9uKrO6UF
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OeUTaNzFS5fLFK5BD4N2zhMcrsw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4942565/8d5834.jpg" group-title="Live Event", Jelang Kick Off - Borneo FC Samarinda vs PERSEBAYA Surabaya - BRI Super League 20:00 07 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19355&type=drm
-https://vidx.semar.my.id/19354.mpd?pepek=GCoIPMprhBSbSqFlBnK5hv8xI8N3rYbw2CPsCednzBQF8c5sZlSJp09OPz1whzdbooN3xbNwun1PbaQY6sSMsp_RW2LEY3zlq0mJJtX-fbsygmNoxvIZgGwNh9nBJ6q6
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0Lc7FCLVIGYiIvmV48JWGyUYa7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4939943/d8ebb8.jpg" group-title="Live Event", Arema FC vs Bali United FC - BRI Super League 20:30 06 Maret 2026
+https://vidx.semar.my.id/19354.mpd?pepek=psPdWTNeRqHJxsKjURnb8ThzmCb0KbeeNwCPNNf88dSc7Fi_gdHbzKvlYN3sGfnKQccWLIjJfMVbFmMM_BoCnIdDRPWoP6RN_eUQaU3yDfE6nUQDgzaMxbqAO9EZB9KX
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3cP4Bf9Ys0jI4g-5M4M5vB3NUQ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4941413/ffcafd.jpg" group-title="Live Event", PERSITA vs Madura United FC - BRI Super League 20:22 07 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19386&type=drm
+https://vidx.semar.my.id/19354.mpd?pepek=iS42F9GcplWqWW3z-9GoOphbzu5ZKFeecHzlAtqQcq495BL0PpwGXV88vO8M107x0bkVs_X0aVoVJ7O3YlaLqtS8f_ecdQ1RdUsnv3NKNRmpzndfjKNrSgS2pzg8PWXG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/I3o_Wchqd9H5ciLCMlpofaeuxNI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4941410/0358a7.jpg" group-title="Live Event", Borneo FC Samarinda vs PERSEBAYA Surabaya - BRI Super League 20:30 07 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2946a6c0d9f37ebb75bc55f881db0b62:2772639062588ba567e959d077e26137,4ae80d1aad61093d8c3178c3789b2c57:583ea6c4437ace03fda4338b988506ee,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,fc865c4db2ab0f9ff2a8a07d5b882725:cd00ca350a49c52748debd87439f723d,1af8aa56af16ad7b0bc7347c5f0d1b8c:61a1d2e5bf2e14466d995edb1e379d6e,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
-https://vidx.semar.my.id/19354.mpd?pepek=otqQFCEZwqipvW2m3O_aIZIElVYSYjqUQo7xr7gTLggJ1XGn-H5Gpqq6275IeA5073WIR89BTEuhdmB9wfM29VmLpojRPDmi5JXgZXBXdycBrGl6aihNyP09b580bOFC
+https://vidx.semar.my.id/19354.mpd?pepek=K4MWKHrQxIugAUaAYMwAwtQMSACCZkJWfxGdUlNUNUkP41meicn7LzgroKpPpc5ar0V_m5OA-AN5Cq_VPeqr4mKKggFleGXd3sSU1Ng5kOPio6igDD7DUC0qfF78wJdD
