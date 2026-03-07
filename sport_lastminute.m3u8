@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="2045juventusvspisaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 JUVENTUS vs PISA  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://matterzrh1-3-dash-pvr.zahs.tv/HD_dazn_event_3_ch/1772836544000/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2GII2TAMZWGE4EMLJUGM2TMQKCGU3TMQRRGEYUKMJUEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCNBQGQTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHBPTIZBQMVSWGNBZMYYWKZJSGE2TCZRWGQ4GGMZSHA2TAZRWMU3TMZJGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTINF:-1 tvg-id="2045juventusvspisaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",20:45 JUVENTUS vs PISA  (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://matterlau1-4-dash-pvr.zahs.tv/HD_spalk_event_1_ch/1772836521600/1772921700800/m_drm_widevine.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBZIE3DCN2BIJATQQSBGA4TALJRIM4EKNCEGJDDIRSEGQ2EMMJYEZSHE3J5MV4HA2LSMF2GS33OHIYTONZTGQ2DCMZYGMTGK5TFNZ2D2MJGNFXGS5DJMFWHEYLUMU6TQMBQGATG2YLYOJQXIZJ5HAYDAMBGNVUW44TBORST2MJQGAYCM4DSMVTGK4TSMVSF63DBNZTXKYLHMU6WS5BGONUWOPJUHFPTSZBRMQ3WCZRRGJSWGZDGME4WCM3FMJTDMM3FMY3GIZJZGBSTEZBGON2WE5DJORWGK4Z5NBUWIZDFNYWXGZDIEZ2HIPJREZ2XGZLSL5UWIPLTNN4V6Y3IHI5DEMJQHAYTAMRGOY6TA
+
+#EXTINF:-1 tvg-id="1930modenavscesenaitampd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",19:30 MODENA vs CESENA (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://dcn-de-voddazn.daznedge.net/@tend%3A1772981462~geo%3AIT~asn%3A3269~path%3A1_3_bd78763226777d9cbd9ec38cf6fe233670d8d5b34f49478c9248888d42fd44b0~ua%3A7c73ef5b8d3235ae0606f2e84e457ff5~id%3A70d2a2d6db3d~tk3%3A9852b5c382e8336759577ab372f590e3b3e4941abcf35df6e8bdb33f53de2c94/SFP/video/gsq9t216nnx1y1q7bb28jblb/1/web/dash/stream.mpd
+
 #EXTINF:-1 tvg-id="ch02itaespmpd" tvg-logo="https://viverediturismofestival.it/wp-content/uploads/2025/10/Sponsor-piccolopartner-2025-10-24T180159.016.png" group-title="LAST MINUTE",CH 02  (ITA/ESP - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
