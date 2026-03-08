@@ -161,6 +161,47 @@ https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
 #EXTINF:-1 tvg-id="icct20wc011430starsportshin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (Star Sports  HIN )
 http://103.229.254.25:7001/play/a0a0/index.m3u8
 
+#EXTINF:-1 tvg-id="clevelandcavaliersvsbostonceltics1800cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Cleveland Cavaliers vs Boston Celtics 18:00 (Cosmote Sport)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD4074/index.mpd
+
+#EXTINF:-1 tvg-id="clevelandcavaliersvsbostonceltics1800sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Cleveland Cavaliers vs Boston Celtics 18:00 (SD SERVER)
+https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+
+#EXTINF:-1 tvg-id="losangeleslakersvsnewyorkknicks2030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Los Angeles Lakers vs New York Knicks 20:30 (SD SERVER)
+https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
+
+#EXTINF:-1 tvg-id="miamiheatvsdetroitpistons2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Miami Heat vs Detroit Pistons 23:00 (SD SERVER)
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
+
+#EXTINF:-1 tvg-id="torontoraptorsvsdallasmavericks2300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Toronto Raptors vs Dallas Mavericks 23:00 (SD SERVER)
+https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
+
+#EXTINF:-1 tvg-id="neworleanspelicansvswashingtonwizards0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",New Orleans Pelicans vs Washington Wizards 00:00 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="milwaukeebucksvsorlandomagic0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Milwaukee Bucks vs Orlando Magic 01:00 (SportzX NBA)
+https://cdn10.tgfiles.cfd/live/cdn10/chunks.m3u8
+
+#EXTINF:-1 tvg-id="milwaukeebucksvsorlandomagic0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Milwaukee Bucks vs Orlando Magic 01:00 (SD SERVER)
+https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
+
+#EXTINF:-1 tvg-id="sanantoniospursvshoustonrockets0100sportzxnba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",San Antonio Spurs vs Houston Rockets 01:00 (SportzX NBA)
+https://cdn7.tgfiles.cfd/live/cdn7/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sanantoniospursvshoustonrockets0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",San Antonio Spurs vs Houston Rockets 01:00 (SD SERVER)
+https://smarthard.click/hls/kl434PVmNnx/index.m3u8
+
+#EXTINF:-1 tvg-id="portlandtrailblazersvsindianapacers0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Portland Trail Blazers vs Indiana Pacers 02:00 (SD SERVER)
+https://smarthard.click/hls/Glj9aN5pStQx/index.m3u8
+
+#EXTINF:-1 tvg-id="sacramentokingsvschicagobulls0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Sacramento Kings vs Chicago Bulls 02:00 (SD SERVER)
+https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
+
+#EXTINF:-1 tvg-id="phoenixsunsvscharlottehornets0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Phoenix Suns vs Charlotte Hornets 03:00 (SD SERVER)
+https://smarthard.click/hls/fZroSQ0L8xcz/index.m3u8
+
 #EXTINF:-1 tvg-id="villarrealvselche1400laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Villarreal vs Elche 14:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
