@@ -134,28 +134,26 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0200backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE 02:00 (BACKUP SD)
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8
 
-#EXTINF:-1 tvg-id="icct20wc011430primehindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (PRIME HINDI)
+#EXTINF:-1 tvg-id="icct20wc011430primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd
 
 #EXTINF:-1 tvg-id="icct20wc011430willowadfree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (WILLOW  Ad Free )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c
-https://ta.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd
 
-#EXTINF:-1 tvg-id="icct20wc011430primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (PRIME VIDEO)
+#EXTINF:-1 tvg-id="icct20wc011430primehindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (PRIME HINDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03018e1facaf7f344fa3d7439c6fc5b2:48a92e8fc0c897a7b23044f4b86e544b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kmdxq2mru1/out/v1/d346b8e088254045bf5ecde7cf5d335a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab
+https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd
 
-#EXTINF:-1 tvg-id="icct20wc011430willowfhd2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (WILLOW  FHD 2 )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=106c1cd8b773f4486335cd98f4d3b8d8:167828189119ff2eda785eb4c0c7f35c
-https://a96aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/enc/wfdj3lglfg/out/v1/b2db8919b7f44ee38826dd1fa0c846d3/cenc.mpd
+#EXTINF:-1 tvg-id="icct20wc011430sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (SportzX Live)
+https://sfsfs.valverdeae7.workers.dev/live.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc011430jiohotstar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (JIO HOTSTAR)
-https://live-pull.aisports.mobi/moviebox/football001/playlist.m3u8
+https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="icct20wc011430willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ICC Mens T20 WC",ICC T20 WC - 01 14:30 (WILLOW HD)
 https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8
