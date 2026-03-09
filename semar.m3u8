@@ -922,3 +922,24 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1eI1Egta-mJDRQRx9eIl8xt6gPY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4946451/7593af.jpg" group-title="Live Event", Jelang Kick Off - PERSIB vs PERSIK Kediri - BRI Super League 20:00 09 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19355&type=drm
+https://vidx.semar.my.id/19354.mpd?pepek=HCwqRg8OW_0Hzb0cYsKaqRhHeliM9-5IL6Tb8wSVokHVdu3G-IZWfqEGG60LI5G1lak3ZTjA4uykQnLiXaXh6qLEr4KR2gsO6cuym3CZSKA_nkTdZrJPmJld5_UPOZuk
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/m9FzRv0vcq6c0zuMiONnizUOOYg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4946462/b7e81d.jpg" group-title="Live Event", PSBS Biak vs Semen Padang FC - BRI Super League 20:30 09 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19386&type=drm
+https://vidx.semar.my.id/19354.mpd?pepek=jlbE0XUUdLiw5k0xJ6vcRViKzrPWIY75rl_57rnGHgfeEl79-OIQdSsMBkEKpy_2lYzAb7untCbfX5dxjBcYMy3pfORR932vTdVWukVbeTe0y9gIRx1jxRzxdChQflrP
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/18J0RFnChQAGm-iPY7xvkey4c2g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4946453/df10ff.jpg" group-title="Live Event", PERSIB vs PERSIK Kediri - BRI Super League 20:30 09 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12.1; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.101 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2946a6c0d9f37ebb75bc55f881db0b62:2772639062588ba567e959d077e26137,4ae80d1aad61093d8c3178c3789b2c57:583ea6c4437ace03fda4338b988506ee,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,fc865c4db2ab0f9ff2a8a07d5b882725:cd00ca350a49c52748debd87439f723d,1af8aa56af16ad7b0bc7347c5f0d1b8c:61a1d2e5bf2e14466d995edb1e379d6e,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
+https://vidx.semar.my.id/19354.mpd?pepek=Q4PLMZCIF67RHhsgixfAGNo-VeLJ3BJam49uE6bAyPS4CHdIpt7SbNu9WRqTKs40Ya3S5zJmGDocl5yupIifWv1VhBn23Ka48OP1GsonHkgmarwtgB71nWI-p3x-lCuW
