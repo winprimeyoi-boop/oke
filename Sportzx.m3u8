@@ -169,18 +169,8 @@ https://in-mc-flive.fancode.com/mumbai/140458_bengali_dash_47475_1drmta-di_h264/
 #KODIPROP:inputstream.adaptive.license_key=61c176eb1700488f9e0394fcb69c817b:a1d6598ed0176b715f4f15166ad8a05d
 https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="clevelandcavaliersvsphiladelphia76ers0000cosmotesp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Cleveland Cavaliers vs Philadelphia 76ers 00:00 (Cosmote Sport)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4074/index.mpd
-
 #EXTINF:-1 tvg-id="clevelandcavaliersvsphiladelphia76ers0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Cleveland Cavaliers vs Philadelphia 76ers 00:00 (SD SERVER)
 https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
-
-#EXTINF:-1 tvg-id="brooklynnetsvsmemphisgrizzlies0030cosmotesport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Brooklyn Nets vs Memphis Grizzlies 00:30 (Cosmote Sport)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4073/index.mpd
 
 #EXTINF:-1 tvg-id="brooklynnetsvsmemphisgrizzlies0030sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Brooklyn Nets vs Memphis Grizzlies 00:30 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
