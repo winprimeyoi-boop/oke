@@ -224,6 +224,12 @@ https://herzogdell.s3.us-east-1.amazonaws.com/arsenal.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4071/index.mpd
 
+#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845beinarabicfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",Bayer Leverkusen vs Arsenal 18:45 (beIN ARABIC FHD)
+http://xmrcars.org:8080/bn24k/mono.m3u8
+
+#EXTINF:-1 tvg-id="bayerleverkusenvsarsenal1845sdstream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",Bayer Leverkusen vs Arsenal 18:45 (SD STREAM)
+https://smarthard.click/hls/kvJmq6EB26a/index.m3u8
+
 #EXTINF:-1 tvg-id="realmadridvsmanchestercity2100tntsportaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",Real Madrid vs Manchester City 21:00 (TNT SPORT - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1d96ab366bbe6451edf7407b58e2fa16:0116201f4a63ac5bf5787d2c610c41a7
