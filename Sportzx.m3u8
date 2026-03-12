@@ -1,26 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
-#EXTINF:-1 tvg-id="formula10430tsnsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:30 (TSN SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
 #EXTINF:-1 tvg-id="formula10430fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://a201aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula10430tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:30 (TSN SPORTS)
+#EXTINF:-1 tvg-id="formula10430tsnsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:30 (TSN SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
-
-#EXTINF:-1 tvg-id="formula10430skyf1it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:30 (SKY F1 IT)
-https://602.lifesharper.com/italy.m3u8
-
-#EXTINF:-1 tvg-id="formula10430skysportf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:30 (SKY SPORT F1)
-https://cdn13.tgfiles.cfd/live/cdn13/chunks.m3u8
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="formula10430elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 04:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -183,7 +172,7 @@ https://in-mc-flive.fancode.com/mumbai/140458_bengali_dash_47475_1drmta-di_h264/
 https://bd-mc-flive.fancode.com/delhi/140458_english_dash_47877_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="detroitpistonsvsphiladelphia76ers0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Detroit Pistons vs Philadelphia 76ers 00:00 (SD SERVER)
-https://smarthard.click/hls/Niyvk3zRJJmP/index.m3u8
+https://smarthard.click/hls/cbf3PwTr7B1A/index.m3u8
 
 #EXTINF:-1 tvg-id="indianapacersvsphoenixsuns0000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Indiana Pacers vs Phoenix Suns 00:00 (SD SERVER)
 https://smarthard.click/hls/z1Lb4SbqsIWU/index.m3u8
@@ -217,16 +206,6 @@ https://daffodil.serverbandel.sbs/nba9.m3u8
 
 #EXTINF:-1 tvg-id="losangeleslakersvschicagobulls0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Los Angeles Lakers vs Chicago Bulls 03:30 (SD SERVER)
 https://smarthard.click/hls/0HGkn3IFDO/index.m3u8
-
-#EXTINF:-1 tvg-id="alnajmascvsdamacfc2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Najma SC vs Damac FC 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1403/index.mpd
-
-#EXTINF:-1 tvg-id="neomscvsaltaawoun2000thmanyahfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Neom SC vs Al-Taawoun 20:00 (Thmanyah - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD1451/index.mpd
 
 #EXTINF:-1 tvg-id="removsfluminense2300premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Remo vs Fluminense 23:00 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
