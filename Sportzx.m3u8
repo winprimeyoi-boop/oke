@@ -233,10 +233,16 @@ https://bbb.exoadash.com/TVD6737/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD1403/index.mpd
 
-#EXTINF:-1 tvg-id="lillevsastonvilla1845tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UEFA Europa",Lille vs Aston Villa 18:45 (TNT SPORTS)
+#EXTINF:-1 tvg-id="lillevsastonvilla1845tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UEFA Europa",Lille vs Aston Villa 18:45 (TNT SPORTS - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="lillevsastonvilla1845sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UEFA Europa",Lille vs Aston Villa 18:45 (SportzX Live)
+https://live.alilicloud.com/live/695984ed629b51f3cefff4c97389905c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="lillevsastonvilla1845espnarsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UEFA Europa",Lille vs Aston Villa 18:45 (ESPN AR SD)
+https://smarthard.click/hls/sabrouchespn1arg/index.m3u8
 
 #EXTINF:-1 tvg-id="stuttgartvsfcporto1845tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UEFA Europa",Stuttgart vs FC Porto 18:45 (TNT SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
