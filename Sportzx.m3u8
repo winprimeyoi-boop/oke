@@ -246,6 +246,9 @@ https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-id="sunderlandvsbrighton1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
+#EXTINF:-1 tvg-id="sunderlandvsbrighton1600usatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (USA TV FHD)
+https://daffodil.lifesharper.com/usa.m3u8
+
 #EXTINF:-1 tvg-id="sunderlandvsbrighton1600skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (SKY SPORTS HD)
 https://storage.googleapis.com/unikhsgyrbover1/mux_video_ts1/index-1.m3u8
 
@@ -256,6 +259,9 @@ https://bbb.exoadash.com/TVD6219/index.mpd
 
 #EXTINF:-1 tvg-id="burnleyvsbournemouth1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="burnleyvsbournemouth1600skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (SKY SPORTS FHD)
+https://grand-s-main.faggotsports.tv/out/v2/1c392ac1f3101d26ea9cf4e61fcfbb8a/index.m3u8
 
 #EXTINF:-1 tvg-id="burnleyvsbournemouth1600skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (SKY SPORTS HD)
 https://storage.googleapis.com/unikhsgyrbover2/mux_video_ts1/index-1.m3u8
@@ -384,6 +390,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/
 #KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
+#EXTINF:-1 tvg-id="intervsatalanta1500hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Inter vs Atalanta 15:00 (HD SERVER)
+https://storage.googleapis.com/unikhsgyrbover3/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="napolivslecce1800beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Napoli vs Lecce 18:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -423,6 +432,17 @@ https://bbb.exoadash.com/TVD6414/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD2709/index.mpd
+
+#EXTINF:-1 tvg-id="bayerleverkusenvsbayernmnchen1530sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Bayern M nchen 15:30 (SporTV BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-id="bayerleverkusenvsbayernmnchen1530skybundesligafhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Bayern M nchen 15:30 (SKY BUNDESLIGA FHD)
+https://grand-s-main.faggotsports.tv/out/v2/34dc783041c18c8e227f7f027737663c/index.m3u8
+
+#EXTINF:-1 tvg-id="bayerleverkusenvsbayernmnchen1530onesportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Bayern M nchen 15:30 (ONE SPORTS FHD)
+https://daffodil.serverbandel.sbs/one.m3u8
 
 #EXTINF:-1 tvg-id="bayerleverkusenvsbayernmnchen1530elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Bayern M nchen 15:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
