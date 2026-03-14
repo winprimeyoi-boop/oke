@@ -164,18 +164,18 @@ https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clie
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=008c919f5c7549b5a3803a6898d2726d:95ad15a3b0b762c8a60e5a62d2a46855
-https://in-mc-flive.fancode.com/mumbai/140458_english_dash_19984_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=1b3824ef37ec42ef9196e8a6c8472475:533da7d02dd25fc535e98089bf48fd77
+https://in-mc-flive.fancode.com/mumbai/140461_english_dash_20788_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7fdbcf36a82c490399d976ae028c6e09:7ce3228abb332645013c77f5382ad793
-https://in-mc-flive.fancode.com/mumbai/140458_hindi_dash_85767_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=cb70409c63a046da8c3a1a4258c9b7c8:061d52a4e4cbd312b09607c68323a8fb
+https://in-mc-flive.fancode.com/mumbai/140461_hindi_dash_62588_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c869c3396574094b236b8e65485d61c:134c182691fe0dcba03f65fc945d973f
-https://in-mc-flive.fancode.com/mumbai/140458_malayalam_dash_36901_1drmta-di_h264/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=f8f91a55d7194880b1fdc25f53ac3e90:574a9f0961131abd0d5c46cda954c27a
+https://in-mc-flive.fancode.com/mumbai/140461_malayalam_dash_59874_1drmta-di_h264/index.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -383,6 +383,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-id="kocaelisporvskonyaspor1130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Kocaelispor vs Konyaspor 11:30 (SportzX Live)
+https://live.alilicloud.com/live/4158092fdc66c2464106da5a52e51462d/playlist.m3u8
+
 #EXTINF:-1 tvg-id="galatasarayvsbaakehir1800beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Galatasaray vs Ba ak ehir 18:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
@@ -416,7 +419,7 @@ https://bbb.exoadash.com/TVD5788/index.mpd
 #EXTINF:-1 tvg-id="penrithpanthersvscronullasharks0935sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NRL Rugby",Penrith Panthers vs Cronulla Sharks 09:35 (SportzX Live)
 http://195.178.110.25/hls/YNNN.m3u8
 
-#EXTINF:-1 tvg-id="collingwoodmagpiesvsadelaidecrows0935tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFL",Collingwood Magpies vs Adelaide Crows 09:35 (TNT SPORTS)
+#EXTINF:-1 tvg-id="collingwoodmagpiesvsadelaidecrows0935tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFL",Collingwood Magpies vs Adelaide Crows 09:35 (TNT Sports - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=192b1115da041585c77200128549efa1:634e10efe4abbb14be400a3ccbac0258
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pnu10tp36z/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
