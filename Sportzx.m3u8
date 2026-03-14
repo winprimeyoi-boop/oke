@@ -386,22 +386,7 @@ https://grand-s-main.faggotsports.tv/out/v2/9d710893f0a089f9f6a5ebe9d4bfc4ad/ind
 #EXTINF:-1 tvg-id="europeandartstrophy1900sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",European Darts Trophy 19:00 (SD SERVER)
 http://195.178.110.37/hls/JBBBQQ.m3u8
 
-#EXTINF:-1 tvg-id="asmonacovsstadebrestois2105ligue1sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",AS Monaco vs Stade Brestois 21:05 (Ligue1  SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://smarthard.click/hls/ZWevymm11TKF/index.m3u8
-
 #EXTINF:-1 tvg-id="aroucavsbenfica2130cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga Portugal",Arouca vs Benfica 21:30 (COSMOTE SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://bbb.exoadash.com/TVD4077/index.mpd
-
-#EXTINF:-1 tvg-id="afcajaxvsspartarotterdam2100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",AFC Ajax vs Sparta Rotterdam 21:00 (Premier Sports)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="afcajaxvsspartarotterdam2100sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",AFC Ajax vs Sparta Rotterdam 21:00 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
