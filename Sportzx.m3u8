@@ -243,6 +243,9 @@ https://bbb.exoadash.com/TVD1403/index.mpd
 #EXTINF:-1 tvg-id="sunderlandvsbrighton1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
+#EXTINF:-1 tvg-id="sunderlandvsbrighton1600sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (SportzX Live - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/brighton.m3u8
+
 #EXTINF:-1 tvg-id="sunderlandvsbrighton1600usatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Brighton 16:00 (USA TV FHD)
 https://daffodil.lifesharper.com/usa.m3u8
 
@@ -256,6 +259,9 @@ https://bbb.exoadash.com/TVD6219/index.mpd
 
 #EXTINF:-1 tvg-id="burnleyvsbournemouth1600nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1 tvg-id="burnleyvsbournemouth1600sportzxliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (SportzX Live - AQ)
+https://onebot3c.s3.us-east-1.amazonaws.com/burnley.m3u8
 
 #EXTINF:-1 tvg-id="burnleyvsbournemouth1600skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Burnley vs Bournemouth 16:00 (SKY SPORTS FHD)
 https://grand-s-main.faggotsports.tv/out/v2/1c392ac1f3101d26ea9cf4e61fcfbb8a/index.m3u8
