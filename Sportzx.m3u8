@@ -147,21 +147,17 @@ https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_SD/apache.m3u8
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915willowaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3757663f0ddde8faf34e73cf636417b1:7e8fcb73c6183793bcc3028108f6860d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dw8fn5dqni/out/v1/9970dcba9eac4243a9dac04e0dba4359/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=b01896dfc4f780aa0e61765af00128b1:0390e22ecb9b6ef93ddf8f7cd3b38461
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8ntichuuto/out/v1/f7b575d5d9a949f9a4e164f635ebb9c7/cenc.mpd
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (WILLOW HD)
+https://grand-s-main.faggotsports.tv/out/v2/50df130a1d7182c1be08a2041df6a4a3/index.m3u8
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915willowlq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (WILLOW - LQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bc4ae67f023277e3962388db3d70e8ff:b306efbeb77165979a553621519b695a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/gm32be3toh/out/v1/4b0a2888f95e415f9c2dc3227071ba63/cenc-sd.mpd
+http://195.178.110.27/hls/FUUUQQQ.m3u8
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915tapmadaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (TAPMAD - AQ)
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad479832/master.m3u8
-
-#EXTINF:-1 tvg-id="bangladeshvspakistan0915fancodeaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (FANCODE AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915ptvsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (PTV SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -170,6 +166,11 @@ https://live.incableinternet.com/v/kooker_ptvsportshd/kooker_ptvsportshd.mpd
 
 #EXTINF:-1 tvg-id="bangladeshvspakistan0915tsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (TSports SD)
 http://198.195.239.50:8095/Tsports/index.m3u8
+
+#EXTINF:-1 tvg-id="bangladeshvspakistan0915fancodeaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Bangladesh vs Pakistan 09:15 (FANCODE AQ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-id="islvsisl1230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
