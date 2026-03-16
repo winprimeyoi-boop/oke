@@ -310,6 +310,9 @@ https://webcast-cdn.b-cdn.net/newz/newz/94.m3u8
 #EXTINF:-1 tvg-id="brentfordvswolverhampton2100nowsportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (NOW SPORTS PL)
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 
+#EXTINF:-1 tvg-id="brentfordvswolverhampton2100maineventfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (MAIN EVENT FHD)
+https://wnt-vanie-36.transmisjana.digital/out/v1/9b4d32d037bd454da3eba321146b01d5/index.m3u8
+
 #EXTINF:-1 tvg-id="brentfordvswolverhampton2100novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Wolverhampton 21:00 (NOVA SPORTS PL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -352,6 +355,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 
 #EXTINF:-1 tvg-id="cremonesevsfiorentina2045cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Cremonese vs Fiorentina 20:45 (COSMOTE SPORTS)
 https://bbb.exoadash.com/TVD4071/index.mpd
+
+#EXTINF:-1 tvg-id="cremonesevsfiorentina2045sport1cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Cremonese vs Fiorentina 20:45 (Sport 1 CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://13-str09-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIzNTQyOTkyMjAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzIxOTkvZGFzaC1jbGVhci8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTFjODljMWQ3YjFiYzQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiODg5MTg5MiIsImRldmljZV9pZCI6IjM5NzlhMzkxLWYwY2MtNGQ0OC1iNDk3LWE5NmVmZjIxZWNjYiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6IjgxIiwic291cmNlcyI6Wzk0LDg0XX0=.tfByU9h-yM6W7Bau86yZnusKL5gEwMETcOrRAWZjMdkNtYQB4uE04_wy5imZu762VnjCot4LsKdZbuZX7i9E1g==/live/2199/dash-clear/2199.mpd
 
 #EXTINF:-1 tvg-id="portsmouthvsderbycounty2100beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Portsmouth vs Derby County 21:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
