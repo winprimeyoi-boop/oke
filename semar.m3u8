@@ -922,81 +922,15 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dUbLq0AdinlHSBPrX0LbSPLBv7I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951025/63d5c4.jpg" group-title="Live Event", Mallorca vs Espanyol - LaLiga 19:55 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=G2HWeQvJWSAAw3VgGpob-GbCPMposbeI0E51nM_3IO8v2s8WGPDgW-fbipEgd3yg5HhXwEkMvh4cL_YLCkScoNW68eXcwMdh1WOKj6qfZR1cLHF4HatsVLnmQZn82Mpi
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/C_txlXz1qsiochRj6CMz9C6fq1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951015/a732fa.jpg" group-title="Live Event", Jelang Kick Off - PERSIJA vs Dewa United Banten FC - BRI Super League 20:00 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7a8b52177b1f34f8ba99cdc48b46e716:24b391a266eb4893e65f7b4347701af6
-https://vidx.semar.my.id/19354.mpd?pepek=1xT_R4h4QeLCMcUq8_jygD8EQ0cyvRVvvMRlpuDq_0dWU5e0JZpbqU8duQ29_7ahmU3Qi925o5ql2uTs8FBrukKBNDanYF5oit781NNqR0Ndf4WLZXl4lUPNiCWChb-i
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1Kimw9qkCCZgPDK8njBtq9xm9Ak=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949051/ca28aa.jpg" group-title="Live Event", Jelang Kick Of - Borneo FC Samarinda vs PERSIB - BRI Super League 20:00 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19355&type=drm
-https://vidx.semar.my.id/19354.mpd?pepek=5ML04m_WBH8glomYV0zaAZ-xxHAKuLPGcQkzF4m4Zam26QqyX0d2YtHIbCTieQ3Q2mjsjEt3L3Wk_G9QaUnRtC6MLBYsZcqUklX-QGf9JsBTGWhKf46ektx2fRbEBnov
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Br9o32qlsUTncegsEYJEx4erag8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4949030/9b3bee.jpg" group-title="Live Event", Borneo FC Samarinda vs PERSIB - BRI Super League 20:30 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2946a6c0d9f37ebb75bc55f881db0b62:2772639062588ba567e959d077e26137,415db37a5af6809ec3dd750094bedd0a:741110fa0a4e26081550ffdc25bd3c14,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,fc865c4db2ab0f9ff2a8a07d5b882725:cd00ca350a49c52748debd87439f723d,1bafd07609f116d7a0437f129e9e98c2:6f4ebc46acfc497037175a88cee11ef7,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
-https://vidx.semar.my.id/19354.mpd?pepek=5pMTh6akKw_OKTDGZWMtev4OR0ANAG12PkIOmmsTdUOjUPRa2r9tfkDyZd_N5tBERtSDSAFNb-0G7dISg45mkq-d7D7yrJwRqx6RIeAJUZ83RFDOE-lB_6sEABOaVyIP
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/myGZkqKBgAfCiFHlR9fGQvf7aJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951018/bd0c60.jpg" group-title="Live Event", PERSIJA vs Dewa United Banten FC - BRI Super League 20:30 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c0033c80c75abfe916080f368f2f35b:8145a32fe0459d0b704bbae731d42729,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c
-https://vidx.semar.my.id/19354.mpd?pepek=K4_cQOAX-KChW707bpfr7_xvS2l39ecH9B_UcC8oPj2wZrgfXqJGNHZH2Dy3r68WFZ_76C5alw4I0Khg9_x4p-jGi_6qLWN1yFIujwefrVHnZiNxVAdFsVWi6eAn0sI0
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-HGSyd7pWBh7AKiYlwf4CDRdcvI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951059/3ed950.jpg" group-title="Live Event", Man United vs Aston Villa - Premier League 20:30 15 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ODJ5kGltFxMEZef41rkwspIy1Zw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4957718/56b81d.jpg" group-title="Live Event", Brentford vs Wolves - Premier League 02:30 17 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=9182&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=aFXk8kCusfT4LoWhLfExpVIcgTc_-TLCiJ1nn3JgBqwxM8QZoIL9F1nfh2mDnVEojOO48EhyXOwed1Dxj_Al5JTm83WZtjjCYIHnP7R7bFKVWNR4_wHxBonu7NrnVRAV
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ky95HTyWJINCmsPgq8yKikc9nn0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951286/4907aa.jpg" group-title="Live Event", Nottingham Forest vs Fulham - Premier League 20:30 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=9183&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=Cu2uWrMXwtY7bD8HyM-TdLOZnkFfHyeiy2f04KS3wHV9FU7waamZITVx0_oV7GskjMhUmSo2G7naj_FN9ALq1mHtou9WuJKo-XTSHOQDMlh6cULZfmNthtGiyrRw1t5b
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/UTp5qJVw1O05Q_b3CcH2Xhvw1Q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951533/7c157a.jpg" group-title="Live Event", Crystal Palace vs Leeds United - Premier League 20:50 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=19375&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=nX9fjQt33sf-fZLdsfuCsoNNreO0w1TzcaGOUHCWTzKJyHfK6yftgTzACo9qUPbgJOE5p-b9rYtu8CIFgAJt_vniyaxQnoBh1Gh8EE8fJhRmKKB-IBrmMydGG66J0IKs
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8jIDt-XKIDHvG0a40PJEX-RKPAw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951027/a9ed90.jpg" group-title="Live Event", Barcelona vs Sevilla - LaLiga 22:10 15 Maret 2026
+https://vidx.semar.my.id/mbledos.mpd?pepek=JgWdXanlR9h03YrtcVhDr6lss6VSV_4znJz4TDaP9hdwmtJIVHL59OpDniFNkZrB5oa57O8soEtIWTETi6OOVeL2Ua2axKqiQDGX3571mB1OzEEVObz3gTOI2gyhaznQ
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tkG1m7M7NEt6UVhD-r9aAq_6TlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955799/c89d49.jpg" group-title="Live Event", Rayo Vallecano vs Levante - LaLiga 02:55 17 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=4T2uZ36v9vu2p81VswvigmjZY62qHS-41U7DXKptfJDwq2GIJrnoTgQ5kZIib80STiCY0ZeB_wKokic88Efg5dVuakwzsVOCR6yjlGdaFMTIeXIQtBqNr9H7PcPjn4bk
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2DibK2qC3ep_mKEN4yK-VjbQTzs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951062/25405c.jpg" group-title="Live Event", Liverpool vs Tottenham - Premier League 23:00 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=9182&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=twgP3zgfmM_MTvbd_MUjwlrFgu-PpdNHkNn2PI9du7o7_kEv2eAk8Xh7MU1ppFvi40VzNGn14Kdpz4MtwaV2tiUV7OG07JYbfnuBLxaGipqtEzIYQZ4qAz7sXWgG_w0M
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SJPkz_6Rp5rO_I7eRdT1vjYn1Zg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4951047/2681c6.jpg" group-title="Live Event", (Data Zone) Liverpool vs Tottenham - Premier League 23:30 15 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=9183&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=mmpHavdWNP_iI6bQOKaBK2bIraDjAO_5rgZk4mOGxxbiUC_4LaIKYQySNKuEnqMGwg7lx2i0yBDFeeCgE6W_qA582to0xFEewSNYRf_2xbmH7AVGkYkQPff6BGfxc5wk
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9MLMJo_c15qvJrFrRrlfOXRTW5M=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953450/2ffae1.jpg" group-title="Live Event", Real Betis vs Celta Vigo - LaLiga 00:25 16 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=xrKOedPmmgjMbp9KDlcDfLXr6w692Lrczsa__0sErjaTQS-2ya3o2o4LPBYsTPPXe-a2V7OAR75PTi3VgVDLzN1cIy7X7GCqDVzBuZZ9yQxSfLJOlOFWctr6IZ-2AidW
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tC8aVNLwCD6ufOlfBWXwkVnzheQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4953552/f3515d.jpg" group-title="Live Event", Real Sociedad vs Osasuna - LaLiga 02:55 16 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=gRBTpCFuC1PoFWkqBbPVGdbIiqm96eiPI1iRRnWLCCyjNJC-5g68GLUHWBHbgL416rVuEZVrGsg0ShfNYp9RMSugXxVhagLcICLqL_PTW-2Rm9w4IvXVmh6ZmAw_CEaT
+https://vidx.semar.my.id/mbledos.mpd?pepek=rC-qPd7FNIXR7F-i01rULrXII3FYJOGDy78Ei2LrnRfYynIrQZihbPrCupMmGcv7inZiXu7SKJH5ANKkg056191-gTx9TEp6PGVF8gVJB0YOq9erwGc7ouXJrYk5F7RU
