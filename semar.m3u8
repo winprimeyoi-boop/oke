@@ -922,15 +922,39 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ODJ5kGltFxMEZef41rkwspIy1Zw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4957718/56b81d.jpg" group-title="Live Event", Brentford vs Wolves - Premier League 02:30 17 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=9182&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=JgWdXanlR9h03YrtcVhDr6lss6VSV_4znJz4TDaP9hdwmtJIVHL59OpDniFNkZrB5oa57O8soEtIWTETi6OOVeL2Ua2axKqiQDGX3571mB1OzEEVObz3gTOI2gyhaznQ
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/tkG1m7M7NEt6UVhD-r9aAq_6TlY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955799/c89d49.jpg" group-title="Live Event", Rayo Vallecano vs Levante - LaLiga 02:55 17 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZXaExFusxjY6n21yUBJnWeoAQ1w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955800/850643.jpg" group-title="Live Event", Atletico Madrid vs Club Brugge - UEFA Youth League 19:55 17 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=rC-qPd7FNIXR7F-i01rULrXII3FYJOGDy78Ei2LrnRfYynIrQZihbPrCupMmGcv7inZiXu7SKJH5ANKkg056191-gTx9TEp6PGVF8gVJB0YOq9erwGc7ouXJrYk5F7RU
+https://vidx.semar.my.id/mbledos.mpd?pepek=vKEFaj33bQcT1l_ySyOM_R75CatwHemnhEwgyGlqree0DDkAwdYqCUxJBTN4nxqG88qFH9tbWGjZgk6_qvcmRrIfxQ_p8-oKu-rxCVOc0eSHCWjC5p6k72Wve9Qn9BHB
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XaPO2FObA59GIBh08NPbqH61f4U=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4955801/c2b6fc.jpg" group-title="Live Event", Villarreal vs PSG - UEFA Youth League 21:55 17 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=17875&type=drm
+https://vidx.semar.my.id/mbledos.mpd?pepek=WOhJKAD886MzwZMDuBgkitaMShx0Lreg5H1H7Uy_qzJs-Rj0cZGKBBmwKSqrhmtPDrP-cg6-BVDjsDqE4OXRVkOb_ChD8o079UJyNKoq6xiDmK5_287KG8uMz7YZLgQu
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iUB5Dh5Lg6CLX8d1jMq_y2gUT7w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956119/bb3c06.jpg" group-title="Live Event", Sporting vs Bodo/Glimt - UEFA Champions League 00:40 18 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
+https://vidx.semar.my.id/mbledos.mpd?pepek=MaPOO0XxCt7sLGP1TjYqU42200rTIy7AphGML712txfepsoKAHlRgQVdNFnXQ0CS9dVikjitFtG-N6VPNj8DVCdxIeB3DygS6tKzu68qUOqgAs_mDxwt3FaWJQnd7hsE
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PQlUAxm6XQi0hzGbFSP1guH77_A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956319/5fdae2.jpg" group-title="Live Event", Chelsea vs PSG - UEFA Champions League 02:50 18 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=18436&type=drm
+https://vidx.semar.my.id/mbledos.mpd?pepek=0ZG636c4f47fDdAhtrDa2enM-2wJ3ST0UCDyucgvDLwkUw89Q02fyM9b5VmROd8CRQ3eAXTvawwYNjjb_mhXkhrV5cDvl4UBfOV2p0YJOJplrlP4Ns46xRqFlIohoCLr
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7jCJ4jSPYPXNGu1Zko33kU5p-xU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956316/7a7508.jpg" group-title="Live Event", Arsenal vs Leverkusen - UEFA Champions League 02:55 18 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6317&type=drm
+https://vidx.semar.my.id/mbledos.mpd?pepek=dNcm1TMLkleeuXMxc2EEI1WjmsYw33qUe4wsfSLJp2f6TFNQnE8Mfd2ejPj2cdvYC-aaxdV_kF69uNv2AE5zzE020AjFZs0TnhgaSB8U87tDeKHh1Gx4SugIuwaXepCl
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1j2ryExanoRZbjjuvbMYpOFCqvE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959206/6a523c.jpg" group-title="Live Event", Man City vs Real Madrid - UEFA Champions League 02:55 18 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=17875&type=drm
+https://vidx.semar.my.id/mbledos.mpd?pepek=8_3uw8vcS5VhYRCi6a22iCON7FMDqLBLQn8jc0ZzWRjSLuSUFYr4l07ud4qQYd4alIFEA4NcLZItzKq9vw5lVrc0gSuRZLclTzQT4mI2UD77nSMiGNWNtFV_tqHxZ26S
