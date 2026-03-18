@@ -922,57 +922,45 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GpKeGRFQB9jJSyKDwhJxolQOjj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956259/e53514.jpg" group-title="Live Event", Cancun P2 Premier Padel 2026 - Day 1 05:00 18 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=17875&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=PNErWa4BFSvHfLojo6dHANAJW9cGFOaj6ql5wJ94SkE9YMlSwwgLQXV80DA-amEb0IaFApP0FDXI7-2a0s9PHOg_m-bXjtwPW0ZWFPSevTjPTgl5HQ5IXc4B__HGNB7l
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dc5icv51C7Jug1XD9yFgEzQ2BbM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956121/9b34d1.jpg" group-title="Live Event", Real Madrid vs Sporting - UEFA Youth League 19:55 18 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=wENN2L7-lDD5G85inRKueD1ztE6vlmg5mm90PmNl6jojIl1lQeZItMKRYbgEtKV9SMSUqOCYHA4yDX40jOSH5N8n1xnf8oOdmp4fkK1IusfnkeXdyeA80GEKyM5PrKTV
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/n00oRpPu5kzsQKbHh91f1GHbWv0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956260/75ae72.jpg" group-title="Live Event", Cancun P2 Premier Padel 2026 - Day 2 21:00 18 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=17875&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=URlUFLqsqbMiOk31IjkllAFwkDamYZVanx4WbM1nizXTfNCiSa-mF9-LXA-IIleEXn0T5ixGb-NKw7knlzY2LWaebzk-THX5GJ7W1s2_4L6nwKFU3DJCpzSKZQzqIS2f
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Yo_2fB8ZEFpbWGER7xhc13ZmcDdDqWIxxdJZPSW17XhyO2sA6yWGg9Mm0C1UvcOukPwr5tpvzuRQj63SV3y2iOXbnV0BmVYNsh9ZF6ivXSnrWBwkUiX5Nr_4coq3fEwf
+https://vidx.semar.my.id/mbledos.mpd?pepek=8qZgzhuO2dUksltLBFiuZ_pxEBr-OJueCFyw2NSwohohpGcQYDMaU02rGQ9V_Kx31TA57ITOr2lLKQI74yT0G7gnd57AqOSxaOiTdm3oFxJ4-2r2I34o_7KgmKbzYAeF
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cCQ6JStzb4-7-0v_B55iFohISas=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956122/326270.jpg" group-title="Live Event", Inter vs Benfica - UEFA Youth League 21:55 18 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=7Zk3Z-Gkw_bHC-70ENffUJRBslf_AfJTSfu4pTAeqtgRaP0NZGIRWq7lOYeOXT02xlVToGqck5zGSXWWk8_vKImpxSwrR7tQ5YRrdB1RYw9pqjcNl7EduunLuCbhPCUV
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=97vAbdcSGIIqGWrXrM9qTZvMIyhAgK3hx0lHYrjCFc-NOm-lcmz9Y3SDevr0PbEVpfHzIVDcdrcKH-5HUiSBT88nBcuMUKeQPU9kFPC0tNwX9-uNIlP5wwn0uOwswrV1
+https://vidx.semar.my.id/mbledos.mpd?pepek=jSj_C2gpyIG7VHENYVdTF5TmHrofmOYnKpb1ALxZ9MA3re3D7SmeV-yJdL3v44CnHpBtGQBGeMVTHuyUsaqP6iwU88VASCg4ecp8o3SlLHgMsAcc3TT6uIb1o2ge8oOY
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/U5Q3KyBfudOZrIghyZDMRFe7b_8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4956317/7722c3.jpg" group-title="Live Event", Braga vs Ferencvaros - UEFA Europa League 22:25 18 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6317&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=EGCSM6bNNG2ahVuhlHs7hglElMRzfOLxyUW0KJiwMGylDbl3P_XEhuBLoMF0E1K6bUdvLQAtxi11AL-aqaHya-0dD69vkrVfEkfw_xvgC_Uy_Lyadkeb9kTifWJnaUWl
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=DpbpY6cHT_hMDtTSsEI0eSViIWaH9Sp072BduXAII4mQbotTetYzuJ7Z1lu2_9h4IlZTbnOdzPUbkJRgFXbIW0SLDN-sQDEv9R59GYeM_q1v_yw24Llulj8YIo1FFBVT
+https://vidx.semar.my.id/mbledos.mpd?pepek=VQA2m4LEyHZeh-e41pI8iaAg25yp5oFLII9n5fC-cmTLzQebukeMDOmuB8s2nNmIamxsg-m6WXgCLNqM_QGfKMSjrseXtt2XH4ezjpJiYlUTJX6o0Tn2qTj91AHQtHfb
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/5eHF5esKaqlqoSiOWccqjLsy3oQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959093/da67f8.jpg" group-title="Live Event", Barcelona vs Newcastle - UEFA Champions League 00:40 19 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6299&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=97l_OIGGFkAbd0PRlYqWM0Giqt3xX5M-Vryqu75pQV8vwhMITR6xI8TQLJHwjsLbKPVqR-8QaCs7iIFHSnmsrKIOjFEENA6PQ4WzS7yEfvuSCcCd-J394B5zlVj_FhNE
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Dsmkubt0v_lPC8p8z6qr8_ZUuDaFzLPcbbbl8yBToj3M4MO8Rq1cvsZqWoPvBQ5mYQK6071AHNFjsVTZVO5RiNZaABnBDAKJmFEsBs9uEWGAKLVFfxivPwvWglmedJZ7
+https://vidx.semar.my.id/mbledos.mpd?pepek=QrHn9nW2nwZBUlGHueWBho4nWl7W57bXTUZDqT6IcyBRE4cYEqYbJbU3FfH8RPvoE6qTPDukLDCej2hytTBJYm5pqq1Vzy_mIXSgaRLDCywk5LU36vqSpkrEbupEepyV
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pxqEYtfACoTgAlygWwwW8XmpMJM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959541/4946cf.jpg" group-title="Live Event", Liverpool vs Galatasaray - UEFA Champions League 02:45 19 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=18436&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=2VlM8A5T9-oq_f94oBks--7xGTZR5qG6IMdgb90CiismDZ1sy9zzUS1FdauMdOEtDUVyc8gspOTQ5-nfd0IzRVtCjW3Kf9ry6tWcG-XFIdARfh5QyTM2EViZGT4N5vi6
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=RTReD6pl2NDyVu4Vau8-23kcw2Yag_11x2VsgTj2YBA5--QXT_dRJWShsn9XT6sMnfVVtSM9M5Z5ylhr010DX2k5jzhv5IEyC2OVnLmFvayJ55SdnTUc3miT6cAs17yg
+https://vidx.semar.my.id/mbledos.mpd?pepek=GtAe7rrWdrgGbStrmn7y6EqQENGqTKkk4oT5EBGSgCPaklsr_ryJDHuZX2kBiDIiWgMjalGA3S0EHumwHob8UaV_OQckcXua034lyTFX9kvyoS_dOi9SuoUH5Apdxr89
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4HV6n35mVZlhISAki_bm0-1D7P8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959203/488f8b.jpg" group-title="Live Event", Tottenham vs Atletico Madrid - UEFA Champions League 02:55 19 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=6317&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=fwJdNPQf7iN4Z7a9gWSPWbF3XtPEIZWHMrrJnhWTktD5_DvYWY5Oavjn8HS7VCPC-l76AEIGDFuBo_vdUnj0tdpmL7caeALhD7MbTNZoOgyWDGBQSJR4giVCzrFOrVkp
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=1rY52zagpgzW2JPK0sP9X8Tntl1Ilm2EnwKJSxl-u1VyMZsDLYnWj6x6XtsmPRIOUJA31ZHQs5hMXs36vjPkHM0xIQrURIpTA0kbW_5C-319538fVvQjy3Z5ykQNn2Rj
+https://vidx.semar.my.id/mbledos.mpd?pepek=NiXvE5YUkbrk7j9toPDsOnZA7E79TlvgaZJe5YSrJMJWBoCNeW_Gc3i7khX29aK3_mojvCbtyL1QIj2EJLEv_gnvRX2RSgyvCLXjkRbKWmh2FYFb4nFJtJpPXS1o5oFX
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9SRFSYPU5Tq1GapyHwa2jjTUBXU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959194/dda9e3.jpg" group-title="Live Event", Bayern vs Atalanta - UEFA Champions League 02:55 19 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?id=17875&type=drm
-https://vidx.semar.my.id/mbledos.mpd?pepek=AiBaqDIzAwzMMGuDYnds5--wLX37w1k3B8o6JBlZgFPyNmU1RIY5TsijzBQ27YwM2YIn4OkTWwRb9LsAi150tTfVXANJZZZ15_EjLTjqfes9CbWXVddL6sNE2ujXxKwo
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=G18qOt2gTRQ2c9W1-yU0xSBurblTGQ9sx_c7hEcwbStUVUIN_K0kv8AiQoimMXFFVV3gdpciZ40Dzj38H9PNqByWh55p92cjy-SiqNImWtjL_oDBechJ4SrAE75Wkxia
+https://vidx.semar.my.id/mbledos.mpd?pepek=BlGyKfm2Ge0ZxaXgM6cm97z8Y0HLCbyrdIrvUEYhmTnGMgDcuc3Sui7Pt0H5P3bVTxpQXmzVelQkKiXvGNQ4apnM-hhhEM_F3OZaNgEBcYOVSyhpIso-UlbCjX3sdT-d
