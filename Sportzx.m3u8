@@ -498,25 +498,72 @@ https://bbb.exoadash.com/TVD2709/index.mpd
 #EXTINF:-1 tvg-id="bayernmnchenvsunionberlin1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayern M nchen vs Union Berlin 15:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
-#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530tntsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (TNT SPORTS - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530daznithd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (DAZN IT HD)
-https://storage.googleapis.com/topstoreyserov1/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530cosmotesports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (Cosmote Sports)
+#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
-https://bbb.exoadash.com/TVD4071/index.mpd
+https://bbb.exoadash.com/TVD6411/index.mpd
 
-#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530sport1cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (Sport 1 CZ)
+#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (NOVA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://13-str09-prod.tv.cetin.cz/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIzNTQyOTkyMjAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlLzIxOTkvZGFzaC1jbGVhci8iLCJzZXNzaW9uX2Nkbl9pZCI6IjQ1YTFjODljMWQ3YjFiYzQiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiODg5MTg5MiIsImRldmljZV9pZCI6IjM5NzlhMzkxLWYwY2MtNGQ0OC1iNDk3LWE5NmVmZjIxZWNjYiIsIm1heF9zZXNzaW9ucyI6MTAwLCJ1cmwiOiJodHRwczovLzE5NC4yMjguNzcuMzAiLCJzZXNzaW9uX3RpbWVvdXQiOjM2MDAsImF1ZCI6IjgxIiwic291cmNlcyI6Wzk0LDg0XX0=.tfByU9h-yM6W7Bau86yZnusKL5gEwMETcOrRAWZjMdkNtYQB4uE04_wy5imZu762VnjCot4LsKdZbuZX7i9E1g==/live/2199/dash-clear/2199.mpd
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2700/index.mpd
+
+#EXTINF:-1 tvg-id="heidenheimvsbayerleverkusen1530skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Heidenheim vs Bayer Leverkusen 15:30 (SKY BUNDESLIGA SD)
+https://smarthard.click/hls/9gSZoyFska/index.m3u8
+
+#EXTINF:-1 tvg-id="rclensvsangers2045ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Lens vs Angers 20:45 (Ligue1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="toulousevslorient1700ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Toulouse vs Lorient 17:00 (Ligue1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="auxerrevsstadebrestois1900ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Auxerre vs Stade Brestois 19:00 (Ligue1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="nicevsparissaintgermain2100ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Nice vs Paris Saint-Germain 21:00 (Ligue1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2083/index.mpd
+
+#EXTINF:-1 tvg-id="nicevsparissaintgermain2100elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",Nice vs Paris Saint-Germain 21:00 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="karlsruhervsgreutherfrth1830beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Karlsruher vs Greuther F rth 18:30 (beIN ENGLISH)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="karlsruhervsgreutherfrth1830novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Karlsruher vs Greuther F rth 18:30 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD2716/index.mpd
+
+#EXTINF:-1 tvg-id="karlsruhervsgreutherfrth1830skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Karlsruher vs Greuther F rth 18:30 (SKY BUNDESLIGA SD)
+https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
+
+#EXTINF:-1 tvg-id="hannover96vseintrachtbraunschweig1830elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Hannover 96 vs Eintracht Braunschweig 18:30 (ELEVEN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://bbb.exoadash.com/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="hannover96vseintrachtbraunschweig1830skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Hannover 96 vs Eintracht Braunschweig 18:30 (SKY BUNDESLIGA SD)
+https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
+
+#EXTINF:-1 tvg-id="heraclesalmelovsexcelsior2000espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Heracles Almelo vs Excelsior 20:00 (ESPN NL)
+https://smarthard.click/hls/zk0Nc2A3VdSM/index.m3u8
+
+#EXTINF:-1 tvg-id="huescavsalmera2030laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Huesca vs Almer a 20:30 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="prestonnevsstokecity2100beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Preston NE vs Stoke City 21:00 (beIN SPORTS SD)
+https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
