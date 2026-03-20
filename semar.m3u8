@@ -922,93 +922,15 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X_Sor8Hnlv-EwxSOSNVcnMmvRN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959544/769653.jpg" group-title="Live Event", Rakow Czestochowa vs Fiorentina - UEFA Conference League 00:35 20 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XfMCy1mlHFk1IsMEP-brS8x_yBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959881/4b3ccb.jpg" group-title="Live Event", Bournemouth vs Man United - Premier League 03:00 21 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9zA-cwJnY6UCljen0NkeYjFjBnPYbvfHrCyreb2sRuC3JjRGfUKPWAXSKYnN0CBihSPIJ-a3g23DX9ugPYnUAb1rxgQE756wwPaYPv1S8DPXcn4Tx7Cpfnxr2tcaef0l
-https://vidx.semar.my.id/mbledos.mpd?pepek=hDVadqQMmefPE0gXx6GKSH57ZiDxzzrEd3OYmKSFc2T2b22e-f4q_Dhtu0QzKJnccPYMYATyCGdH0emdZagWvWJ5kLCG--p6yrzQnnhgfAlaVmnYZhhMC7XqoF1wioGl
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YRGd4ITZoz0z5H2ELKKdRdxF0GE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959542/c35780.jpg" group-title="Live Event", AEK Athens vs Celje - UEFA Conference League 00:35 20 Maret 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=bcKmpE26vo87PpQD482QzRcnyvf89v2WB87It2AJvyo9EgyoZfP3JMyZvJrAAnJ3sfJTC7nJDL1DD99RA9He59-GzDqigR4qNVNQAUgA3OwLi2VZEXYyWAZde9k3EqN9
+https://vidx.semar.my.id/mbledos.mpd?pepek=tZ1R9zwGSQAgYAOrY5DEymXX3ZLrad9KykCoe8AHFymg95lmH_ror98iGW0WisIXatPXTNtRMNKPia1Ylxzu-PpRAyNFjU4lhQlSUwC2OmdLtmKG1SsKqe-nh7FjAP1I
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qIFR5yF6mSw_KPwtutFWZHMJsOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959884/a8b39c.jpg" group-title="Live Event", Villarreal vs Real Sociedad - LaLiga 03:00 21 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=lYsegD3N0HpI3TkBBP12K03ztj3qq4RrqP6boyLLk94NmBCjuygAhlAQfstS2p6cDWeJXLFje7pPG670aMxRJHbZzK9a0MGvoG9Wm1q7-8olvhpmYamCJYEzF1sy8uQG
-https://vidx.semar.my.id/mbledos.mpd?pepek=CRyONkInvQt43MzGnjtT1lgyC6fnQwDBtSOS5KTl-qYKhBvUWzQy96GGBTSHlbuVl_YfERVmZxG0YKQ4PKpXzcYv9m-0FqMYOMvQxE9LiYXelOdVDbYXvMRalRPrwCtN
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/weB_jc80LUdpMsnjhJZ72SBOFN8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959543/e85d12.jpg" group-title="Live Event", Mainz vs Sigma - UEFA Conference League 00:35 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=5S5NPDkxAQD8oKGPn8nCslMVbk7MMjAV0FqPHwX6-ZFeXeQiBAr-F-OD5tkuK8Sm5GQGusUkBHysLzRuHOPnip1QO19tPvXcDC4mkJDH-6uLKwYCRFFMEDUjsoozEgqr
-https://vidx.semar.my.id/mbledos.mpd?pepek=wcGuxnwWAG7sLb87gr2fIASDz7uk-IMLSR4QOIrA8bfIOQ86fWHgtSHla6qE7s-Tfsnup2FDdp2X06YuEklIGl8kXzCkNaN8SkgZ6vpFZyOkZBUKQE2UKPkwZe5XYuwd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MgWer4xWcBhvtSeu0El0LChxohQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959550/13f3fd.jpg" group-title="Live Event", Midtjylland vs Nottingham Forest - UEFA Europa League 00:35 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=VcAbzKrdvrMBxbBrAcM5AEGhTspr9u0b4xuRE2INjYy3SdgzYY-aanVX1SS6tl6OdfGEt7UWYmC5qFzdquGWaTwd4pTsQXFTNyM3b2OBLkuqIqGA_gaKPDRdU0XKY1PI
-https://vidx.semar.my.id/mbledos.mpd?pepek=Ufimi6t3OxHFFMgN2leEyYHz9H2R4yUzAXMu7sg-2b9X8UymOgr8Vyw1Z0lNN4bcPrMJEl3T4moBZER50vs9QLoXOaR02USPckbwULP3sIyFNkCsXeQ6G6uvUwvfiCdJ
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DaSH3fvCm1WKeNvxRFagrt8Uw4E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959551/2d166c.jpg" group-title="Live Event", SC Freiburg vs Genk - UEFA Europa League 00:35 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=T6ldWdWtH8_Kzd5vUu_5lCBMWaxoSpU5WRHr9QotiT5WlgrUCyWwNf905_xHCizph_3IJd1f7eN4Lc0qM1w44PJ20ctYFh4u5o3PryMUnhZD81Y6iIaXHZdi9ZV4B_QV
-https://vidx.semar.my.id/mbledos.mpd?pepek=-n2GvxKdz7cJoIydroIvREtPh8V8vszbmkXlz29BpUVx6NTO2E1BLLdEMXQ2dVMOrTc5g354WeLg2Gg37RuKXkfS1LQFIw--fWnSa2zMywN-w0zaWkffw_f_e5N0TVwC
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ai-s9sDKb1E1Wek_0zP_zHQNLJc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959526/1f4f7c.jpg" group-title="Live Event", Lyon vs Celta Vigo - UEFA Europa League 00:40 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=wLU1JtnY8Ec5t1RiR_L-kp38nU5YTJxD9_Eh1T6vimrEgV-9_pKUQvGfL8TEIOjDkvGIehxYvZheZUn0XTYb-OQEGL-BVdgaVxrdrt6hSob0Fv8nDamtR0D1c08GVhvD
-https://vidx.semar.my.id/mbledos.mpd?pepek=dKz291RKOP5RCHEZaZvy-M8fcCuRiy6Tjx3Dg_9grF3XsmwhhuCXAZKj7MS8lBUMy27KynveP3HWEAaorVnqWhLgX08ffhuisi-uqkZnk5wBno07nFAnkZkpNwDoCQ3d
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/QFpTqclbYQQiuXv2r6E3io7NL7s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959528/4380cd.jpg" group-title="Live Event", AEK Larnaca vs Crystal Palace - UEFA Conference League 00:40 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=bSTBOvEZxr97yLroaGMykGzvLyvng9c5wAJQesVXaIrVpZoVdkdd7YYPhMbMsSx1JvuZFxxKPQyK1UyakKMhwO1c8ZVHKbQ__fL5HyZimlkG56Xz-vkZ1W5MBbIdn8oT
-https://vidx.semar.my.id/mbledos.mpd?pepek=ahUD8xdIhNpFhSSs3gVH0lohZI6tCgI7XlAgyx5VsA_GPTEsyWdKqQN8r3Pp5emPBdgo1BQu-8-nmp064ZlPPpcK4r5H2aMCiVjgn4mPI8fwgoD2O10ATxg0z3KiVSim
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WC_iC6K9kFGaY9aiaBFYgZDDAfg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959547/65682e.jpg" group-title="Live Event", Shakhtar Donetsk vs Lech Poznan - UEFA Conference League 02:50 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Ha7GWpAxLWuyGL3GHoAHVOJBDtQDY4iuTWQVPaFes_5RWVdhfsOnEhdqbhWKqo3KM0alfgSesf7v_nvJLY1B4gVbAMLbZWfEwsAP6tx1wXvLG2Fk-YkbjzVAhnI4ctx0
-https://vidx.semar.my.id/mbledos.mpd?pepek=z8inrAtvMAHqICGrvHXrtGgYEI--Rhi0Z6IIgj9ZCGsQVxc-2wqae4ZI1zLFDDNwz7tbVcwXGaOBJ-fOuJQ6OcPgbZwOfXK4fsTolRvYSZq4fnccQIfh5ePhiPYGdMvG
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4zLEqce1E5YTMty4fQHCotosIBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959548/f281af.jpg" group-title="Live Event", Sparta Praha vs AZ Alkmaar - UEFA Conference League 02:50 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=albi_5CR9fSlhRVZrEQrMYbbxtnuLdpCCoUJVLiWTd40dt1aEGbj6WA5UHSRYUB77Uvp-W_EhRDNJJHlRUgKwThMG0VoFKcRBDlaBrDelWoqPMljWyGQT9qoLDrC6eUE
-https://vidx.semar.my.id/mbledos.mpd?pepek=EyAUnvbdZG4OiJf5nUODxKLNRlJR-SflxNkUxomE2rxG-f03ZMOPZu6O33bBZ3UIz2iEgxetiSqt68b5TqwwD8K61_RxFPbxduCzspswpbAYCmV7PnPdReRQ0JwwjZEY
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xjNbltFyWNBOnKy4RslbeRh8xN0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959549/a634e3.jpg" group-title="Live Event", Strasbourg vs Rijeka - UEFA Conference League 02:50 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9k5ryZOqjfZYiXbwfmvWxSzY1gfI36IroeGH4MST0CGhv1iOh2fGCBOS66KRCJL2ogzy9psYglBQreQKlxGcKiB847jFuXrZ2WqGBxdbEDDjg7ar44z_OkyLE4eni-oF
-https://vidx.semar.my.id/mbledos.mpd?pepek=QmmEbD226Ej9FEcTHHG0gggHvnNFJsFixGGsq2zUO29MVUBouupaeKPVKmYS5fJI_6MFoywxYALCfC_ZsnjVv0nx3pXlcJSriNKW6UdFoXJAHdYamusVFXJ01D0be2J9
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0PRA2gw72Suas42zEunm1nk65X4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959527/7d8edd.jpg" group-title="Live Event", Porto vs VfB Stuttgart - UEFA Europa League 02:50 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Fj3h7CLzrMewjFoD4H1IePahKIOjxYhvhQ9RzE-tzdovc0fEiYnnvsdjlZSwC4SrKbjGryPsloMI_nZHxEUiZARptWHenm6EX8yVsIc3JA0oZlKZ9NU6vfTBkrkGomz5
-https://vidx.semar.my.id/mbledos.mpd?pepek=lpjuZGNjrZ0Ed1-KYoNtskG2nJU3A3jO9z0Ka3hnM1YmzeQlDh4sPl1QwGbqmtorKL4cIDLl5DE1Edum3-OGZYk7w8ukYLlDR9Jfj0Pr31l82ljf5oRaR7cqoZ5lqyJv
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/S6g-sHzCzI13OwQgDPpra1rTURw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959552/6eeca4.jpg" group-title="Live Event", Real Betis vs Panathinaikos - UEFA Europa League 02:50 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=SI2JC-S_7SAuZYD1lFGlvbByCwE395uTlf1eIKKVZl4Trt6SLiT2hgDjFgismdevxPrstH2CF8mwHwRubB520JRPfQpEz_soJvWiYiNwyi-v229yuhARykvhNVVzev2w
-https://vidx.semar.my.id/mbledos.mpd?pepek=Mx441gPxk5rSWafEJtBnG18-gkuKwCTBs6pf6zpRbT1Li_rGtpdBwLnh4knennF5gOAvfPl2KaYPwhAPoml6AMpjTgxkBQdmSc5b9JlZnjo0kzA3Pi7K4GB-FE1X7Kxh
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2TWPTdx3kgOLLonIBgR0NnaxG_E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959553/9942f8.jpg" group-title="Live Event", Roma vs Bologna - UEFA Europa League 02:50 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=VNurNQJ8MUIapWAwYo0VOyfSYKiMoE0goB8tG9QrM_5cceyOPgOJwCq2OkGaYXXWajGMCqjsn_pt2Sgfm12QYp38yzuKT0oDlKetGkTz0jPIyp_ECJoOEn0xEJ5A_vhb
-https://vidx.semar.my.id/mbledos.mpd?pepek=4_m9grBCwoI9axgaT0hM77z5YwdZpzr_c_gvk4mSg44Os4IzbpbZqT2VUHC-UfoUYi04-zIQMb7QuZlxlaf3R89gqSIhR1lOx_8BWXWj1LLVVDNuCAAVOXOfPuAmxMza
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kOEawdX3BdN6iz1NrF3yEVHNxao=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959546/a00e60.jpg" group-title="Live Event", Rayo Vallecano vs Samsunspor - UEFA Conference League 02:50 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=0XMT7AcU6PTd_sAxG8MQR1dQpmPEIS791Q2aVmmt-b68IFILZCYZrmpmRqe1Bv0TGw4IqWSY5lkliCdRaIc3D5DVk-eKHwbnAISgkR9M_oZ3m9NgsPhsYsq-HOfCxHyV
-https://vidx.semar.my.id/mbledos.mpd?pepek=GFcnnrSsCwiYUYvXiB23ScjPeblJmuSnd962hUnAw733o6UC6ChRnfKjC3GdsMKXzA7cw5tPZi4pUIQPGJwzwM2B-JF2Tj4cLd9Xt2kBFMEIfwxbRjI16S5aCUnhXuAM
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Luh09hxbebp7TjKkxaGjZkO_1VQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959094/212000.jpg" group-title="Live Event", Aston Villa vs LOSC - UEFA Europa League 02:55 20 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=7pEr-s1YIwOeFATZ8-AHf3Ox0Vn95TXDJuFEUmvr0XaSH6IqY3MUMiUh9t6-bAm0sp6lmKkekCggR_m8MvbHMtyDyNxoO996Lwb9PpbOiydt3leti1g1f0lStBFiIR5W
-https://vidx.semar.my.id/mbledos.mpd?pepek=oj8nidvYZ2TLVfcDswKncHLLvkUM3jQ0qsCmiXA5S76-91NaNyr-WImgidGXBu3hcazWGGcCBeeM1S8-DbLYDt1GIHbfOXpOZYQFi5bZdQZAQ9eoiXgUoPHvOSdVH7Rk
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9EGDnfd2Ul_bPkHbTn0To7kT8CC7aYB6L9uqO8b9y0mjtMRZQC7Duo6cMJEJc96a0ITF-eVNJ59VZODzymAS_qPHeT8AOSPWN3LEJgMQvUN-UpqK9XJPc8HenbnWNqY2
+https://vidx.semar.my.id/mbledos.mpd?pepek=36e9AVanD-hIo5I7VnVyfcp_sJwpKgNGgok5tiOd10Mhi0Hsz9JEL-StaH-yTTvKsvjVW4OVwPYqrk-oxkUJdeBgCzuWTQXE1WI7JNfijSZQylVaAQkkBeHm_dk6yM5x
