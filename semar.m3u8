@@ -922,15 +922,57 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XfMCy1mlHFk1IsMEP-brS8x_yBo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959881/4b3ccb.jpg" group-title="Live Event", Bournemouth vs Man United - Premier League 03:00 21 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/b3tACy7NeEEYWSOpbglWfs3reMc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959882/f4bbc7.jpg" group-title="Live Event", Brighton vs Liverpool - Premier League 19:00 21 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=bcKmpE26vo87PpQD482QzRcnyvf89v2WB87It2AJvyo9EgyoZfP3JMyZvJrAAnJ3sfJTC7nJDL1DD99RA9He59-GzDqigR4qNVNQAUgA3OwLi2VZEXYyWAZde9k3EqN9
-https://vidx.semar.my.id/mbledos.mpd?pepek=tZ1R9zwGSQAgYAOrY5DEymXX3ZLrad9KykCoe8AHFymg95lmH_ror98iGW0WisIXatPXTNtRMNKPia1Ylxzu-PpRAyNFjU4lhQlSUwC2OmdLtmKG1SsKqe-nh7FjAP1I
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qIFR5yF6mSw_KPwtutFWZHMJsOc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959884/a8b39c.jpg" group-title="Live Event", Villarreal vs Real Sociedad - LaLiga 03:00 21 Maret 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=NGzNbh095gQlGzpRjuvuqQLmLVgUWqNE35ew57uzH8ImyT1KgR6jdnt8yxSll3BmevpmndkzlhCzBNT8JUep7-B-XbJo9FL0V7R0lBkqczllzSeVT7lgIkuzAqUkF6nT
+https://vidx.semar.my.id/mbledos.mpd?pepek=vPXphh5kvWqWdi5lPtT9T4q0VhEGdaMbQZn-nlWDay4TpoEvM4UvXhbLvOiy9pysqyoK5PEQ1X6QOaeeU_8tOCqCzJvRfBMPZ0cpzMikFVQKw9iIM4bpMv7dnZUpLDhT
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/_ppYavEKaNsCOp3BPRZv_V5UWrk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959885/7802d0.jpg" group-title="Live Event", Elche vs Mallorca - LaLiga 20:00 21 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9EGDnfd2Ul_bPkHbTn0To7kT8CC7aYB6L9uqO8b9y0mjtMRZQC7Duo6cMJEJc96a0ITF-eVNJ59VZODzymAS_qPHeT8AOSPWN3LEJgMQvUN-UpqK9XJPc8HenbnWNqY2
-https://vidx.semar.my.id/mbledos.mpd?pepek=36e9AVanD-hIo5I7VnVyfcp_sJwpKgNGgok5tiOd10Mhi0Hsz9JEL-StaH-yTTvKsvjVW4OVwPYqrk-oxkUJdeBgCzuWTQXE1WI7JNfijSZQylVaAQkkBeHm_dk6yM5x
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=UpcjqZHKTd-2H_bIpOEmLkX11_gS0H8RepxcTlUlXYRn18Tam2rKUObwRQ16egYwaueE5s9SPeIgLAqhSfwfJXxXVB4uM9Hg8P6ZDs9UuaWNBS0zDEAu4CIni6etpY1f
+https://vidx.semar.my.id/mbledos.mpd?pepek=eUmxM50PE7VgGgLBhhyzp1WCgmBIlD8nb6nPVfw2Xji20FPhhxXGct3O7ovIc6uwfgVwDwY23e99uAH5eWvwSF3DYjM8Q4gGKnOxJa3qIHdVQWsE5ANmplIGojlj8ulP
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/K67vdC5dln8uzLOZGFZnP1WHSKQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959883/9ff03d.jpg" group-title="Live Event", Fulham vs Burnley - Premier League 22:00 21 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=2VzI_xZb1jthamAGc25JCuF67UDb4dqwT5leKAw3THlfuoN-oGglbiK3R4h9wAdVgh4S17B5C1_5p_VCrtSr01eq-6HbTiuY0QXj_LM7RGGe1ZksGp1Y-3dalvMW6psF
+https://vidx.semar.my.id/mbledos.mpd?pepek=EePtOV2IWFOHnQ7sAy69VoeYPDChjFQu5UPfK9QhsggBKXoM9RMeKKKBoaOTK6GYfVDvMMYbCFID0vDvhTSoxRCvRJ9qopXZenNw8kLAkH6asGd1RrB0DgHcHuY_ZeCr
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dJKu49NzOH4etGm3SpnpeptoWgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959886/929501.jpg" group-title="Live Event", Espanyol vs Getafe - LaLiga 22:15 21 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=hMwSqWHXqdj9jHSC17-KcfO7VslrybNyXsFK2KCGDR3XQ1Cz0qQJVV-iYCwuslHT3AZs63F3Wtw1m3tOH-G6uwwI_18oG1OLLtazx5iE65ZIs0rOrBOICnjZN_cUM_qy
+https://vidx.semar.my.id/mbledos.mpd?pepek=KhUkPlr0u2jIii15Pmj9GAcJlGtYeou11PGUJm7g_FFVvlFL6lJ0GXKLfuDcKPOoFbJYwZgB5Wyqar3aK-0b4OppTzFJgWY9C44VmnbtbU-kcqvn9EgiHo3RjqTtE8oQ
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EICruPQ5E_D1VUgWIDCOpLNMCL4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4960800/b42ac8.jpg" group-title="Live Event", Everton vs Chelsea - Premier League 00:00 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=pnx_EXl_S5vhsXGBo4Uv0NA9P5SxsEkFmnj3J57Y4ONzSRENBmmHBWTgTqQAu5svD8D6vghIL0VYCrGGuIBPGjyNFEFyyHDHGf998znK7PUDvyHhaW9hoNeGCXd89cdD
+https://vidx.semar.my.id/mbledos.mpd?pepek=61bh1IM7c0AxwpDJrD4got6fla9Y6dLU1Zu_bCDMtEr-L7wS1YD1-z5p4qkFs9g2_sLIdjxskRNz8WP_YrR9691Ft_ZZ1McJm7eShC95asb_wajHxJGm5tYrcwDZqviQ
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/m8VcuK8J_AJsygce9gRHDFmtS0w=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4965333/33ceb0.jpg" group-title="Live Event", Osasuna vs Girona - LaLiga 00:25 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9JVaGqOvF-MFcwUPPSrphGHFMRd9444l7oQS6XcHWgGDUknR2EvAwhqVmBVDb4s2LN2h6_m9AnRAxmWEcpJMExXg643hO5UtQx6AfKTJatuXayfW75l1dwSmpDhXKrQl
+https://vidx.semar.my.id/mbledos.mpd?pepek=2QtfX9UQW7x9Fk8ceIQlIs9LtQt34EV2SBLpBn-4tOPTp_3I62qdJzkBwnoOlf0uzQDHu4kGJHeMKTy75LreleY8oDC7jDCV6WEilEb_pwSGwFM5QXevPapKHUOZS15d
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NfADhkI5z3U6bIBOxRZUOdnqg8E=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962339/7414e5.jpg" group-title="Live Event", Levante vs Oviedo - LaLiga 00:30 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=XzDWAzV4e0QZ9CqIsJlxuRHmelVojaCXNAdeGhCQ6wwZyEOpFkTexe9_KnHlUURb2xTUJTpegtB-X7YTl9guW4xA66S_9eFDVZFYBCcNB5kJ2ud95vR1ei1iALNsoRLX
+https://vidx.semar.my.id/mbledos.mpd?pepek=LKqVf2HPvwvs3j47QuQuKTc8fkhDssy0YBtuZKP2XCbowQwFnVXYOTUO_077-BSGpSwJyW4W0GzogocTTOnJxWR1C0mobmQsDwOyz4RJY_lKVjY1VVip0zDSuFCPYvUt
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jNpq_rtGEi2JwlIZ2XPCPn2axIw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4961117/01bc12.jpg" group-title="Live Event", Leeds United vs Brentford - Premier League 02:30 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=ld8fgJoaYBURP9NKZF8WLmsiexbMzKoHLAcAQQpLomNMXibMdh7nLAj059fOjZ0pZU6minpaDY_sF7c9NI8wFKqwRnP4ZCGFI56qX-UUi7xwkYbdRpzRWwFPqVmUxfba
+https://vidx.semar.my.id/mbledos.mpd?pepek=sDLybiK5G3ly0pbdOGjHVrpD5E88CY8fQH937AG4tyTgISRxXdz_I5qon3n4bZGp2cDA24LSsftm8idgEHWgdMGW5yFSfK3VD_iLN2USyeOWqY2I02VLiJUTdXPutj1k
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1IscMDTwtXnIwSsr1xBjNhjWdJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962340/1280e9.jpg" group-title="Live Event", Sevilla vs Valencia - LaLiga 03:00 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=ttFdBwSjIdeQTgDMKrhg-V4PC8B1DpOleOAeP3XRADJJeq-WCN4iCwZNqYHqYOF9q9uNGAH1sRk91FlMUJAG0BnVdvJLH4ibJxICCMUOkjo9mmMLGI9dQqPuRH8-zRKc
+https://vidx.semar.my.id/mbledos.mpd?pepek=cPQjqTUwvliyLQ70rXYc2U3loMtOsdOiTOF57A0VP4ZkOHeac9d1izQlBKh3rqn_zKWvTWFqfL9n8xtIxl65vWn4gLvWLx7ggtqxbPqDJgYZo7yOE1SqQXUNSvU8Xp1p
