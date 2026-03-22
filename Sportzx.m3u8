@@ -197,7 +197,7 @@ https://smarthard.click/hls/DfF4IkIqKvOP/index.m3u8
 #EXTINF:-1 tvg-id="phoenixsunsvstorontoraptors0200sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Phoenix Suns vs Toronto Raptors 02:00 (SD SERVER)
 https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 
-#EXTINF:-1 tvg-id="arsenalvsmanchestercity1730beinenglish2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Manchester City 17:30 (beIN ENGLISH 2)
+#EXTINF:-1 tvg-id="arsenalvsmanchestercity1730beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Arsenal vs Manchester City 17:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
@@ -207,7 +207,7 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-id="monterreyvscdguadalajara0205tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Monterrey vs CD Guadalajara 02:05 (TUDN USA)
+#EXTINF:-1 tvg-id="newcastleunitedvssunderland1300tudnusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Newcastle United vs Sunderland 13:00 (TUDN USA)
 https://cors-proxy.cooks.fyi/https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
 
 #EXTINF:-1 tvg-id="pumasunamvsclubamrica0410cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Pumas UNAM vs Club Am rica 04:10 (CBS NETWORK)
