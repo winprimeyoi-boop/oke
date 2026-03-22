@@ -922,51 +922,81 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FKO1vTjzz-WpFlYv2kXAoG7ndOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962270/415f61.jpg" group-title="Live Event", (Data Zone) Newcastle vs Sunderland - Premier League 18:30 22 Maret 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/fsiZ9-8BkGM_wRu0TG3BQVzblpk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959620/eedecc.jpg" group-title="Live Event", Como vs Pisa - Serie A 18:30 22 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=5D51EDqdHOw7fZgZrpwowC8kyJBYa-rYpz5Q0Dews5SaklIjp0sKQoBQ6fHmcOy9Ie5rDpXkWLR2mXvKgu_ygJQKyjsWOsk2CPvQ_u3BEfjd-J4-Xbxxm5DsoiCULzJB
-https://vidx.semar.my.id/mbledos.mpd?pepek=i-rDSS0zo0FV7Bu-InKN5tyyiinWwZ-lC5QBlGDKSGL9wCSufgYoGsnM4bdFy2XyBn1Q6cJJkyQOAE4CAW2m5D67u0w8XbAtl3eYLTie5keoczwCFiAwDyFWOGPy463w
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=CNHy3V6Qn6OV9vozL67ihcqh2XK6ChDOYJsaVlz9sIqI1MpQ05Sx6wJ3svEZ5cwjT6dcwZOsLjW5Q8hw06Owd7JggE0ZSQritSFEdhyQcyxM2_rS3AHZ3jqEAb-VtHtZ
+https://vidx.semar.my.id/mbledos.mpd?pepek=iZ-fi-0NpGOcL35W80kipdH5PBD-hVac-OvOxoCRff7St3Fw2HpCVQOiZ8rvcv87eQflsHFGStNAvyKxTH8TPyA90FT-FWCv3DzcBnjb7i2Ei0S7ktDjL0mBjP_FrsSw
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/K3fzTP66Lk_U2OktguGP_Oom6mQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962256/89dcad.jpg" group-title="Live Event", Newcastle vs Sunderland - Premier League 18:30 22 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=eYfhqw4o-_TE89FeUAmsbZ26t9t4LXzZgPbthN7s-vHnXvyt-4mO7_0ieoJ2zRK493ddXNGBYMstEItdkoy3cnJKMx1hnLgOYKw0aAJcZXu3e1d_tidjxEPGe6gygDAB
-https://vidx.semar.my.id/mbledos.mpd?pepek=Oxb_ENg8vsBDSd1oOlIAJm6LvYY060IpgnurbaYoDrRIyBTohc1TjpsLYBnyqsyZngvMT13VqIoTJMQxzVHjlShLWTW86s-DjK1pQtz-BhvBLji1NZH9agx-t_JrXzHW
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=vun8jhuZDKkAXlE22ZIeHRbCcOzkpQHMBn1Hg9i6zzrYSyuurTt5h9rIFv3SD9ebdw890s4HbE0SndCQ71roakC6-bJALKK9rTsmjjSZMhFHe8jIKUOQ69-ELBOqNfPt
+https://vidx.semar.my.id/mbledos.mpd?pepek=ebEr4n60Pbou8B3LkyN9J2Fo3Bv2VzYAdMyChZLnyTo9WCluZGoPW0XqniYcYdOz9RVem83DTS8Z5G5hXE7aikk3HmASkWhpFSOprawJ08agT3PSVZiVvf0UpsjVenCf
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FKO1vTjzz-WpFlYv2kXAoG7ndOI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962270/415f61.jpg" group-title="Live Event", (Data Zone) Newcastle vs Sunderland - Premier League 18:30 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=4_3bBf5hQ-yhKEjZn4xMb6JVnl92qcRCKia2s2Zv4X5Z0AHi-7nXctwHzK76XNJD03FHFcGXXza7VuRFzcHbr9U5by3387Ff3rpNitFO3KWorjmoRk16NCeOekcBJtGG
+https://vidx.semar.my.id/mbledos.mpd?pepek=zxVJhcFU9PnelRLdHt55gnkRKIX4OL2BEWEM0thjAFpdPWyCikjz52u1PvNZXoLNk7L-vP3AqEX3jiH_tWgz6LB0H_gTBJZC--RHYmvbF3E_qa9XTsUcMdt4sl2MIqMG
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4PtMU7XNzy2e_tyrBHPMEricz9s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962341/28728b.jpg" group-title="Live Event", Barcelona vs Rayo Vallecano - LaLiga 20:00 22 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9STKkTkUH-JyKGLVwlAwHspPX2xzQdcAwzZuqbAB8NIDCanarJ1FL3ynUwdT6nH3AnquQg56SC567s8PyBNUPh1dL0HSOoDw-HylQFmDZOmC7fFTryH5oo3-3uR6VuQf
-https://vidx.semar.my.id/mbledos.mpd?pepek=Jf37FndPrCVOsivxEU8yX-ZY9pN2cBh8Vq82b16FLDaHmswbitreVZJUwWhNlmrEDNWBY-DIMKdN7IOrdaDUvR6NQEkyGm36v3uGQwXJzkpz74MY_u513S3O8N5CKoyi
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=PZYw15rd3c_Tvg6VdRzDQPCn97I_Tbj97-430WsT9o6jcRbbopwbOzmGDU7e7H8n9NifjAbFuSg06yN20qzrzXuH3YR8F9mmcXReAyOYYCCOgpWx5xwONe6SFf25kxc0
+https://vidx.semar.my.id/mbledos.mpd?pepek=aycYCwvRkWKRm9QTUCg4O-OH9soFu6aS9yldZmvAAwPiWm7vV35mv2j-BnBkAT7ZT83IwmBlIFFdEr1bKS96yKLIG0E_T7r9_YRCSuvsvHtIvzjSyvjb_nFmjI6co7QR
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ud6SIZZeUD-_35XRhxRyOemOhsY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959621/b58bc4.jpg" group-title="Live Event", Bologna vs Lazio - Serie A 21:00 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=GtdOGEmA9mOVGu2MF60UHGCElPTXYCpPtjeRd8h7lkqRNtxKMPaFFmenAUm2FWhXZhIAQKhJMtkHoVycZr7WcfVxmLjjLTq4r6FS-e6O7FMlqSUV793xzwgtXy1HL6tA
+https://vidx.semar.my.id/mbledos.mpd?pepek=FN1e1CuxY-kubD2CBIttXXMuf4bvnp82U5jv-cRSpQzLrYZ88YA7ULgKzpi_2tsIu3jCZuvl2g35XI596iFVt4XPjpdPw_dVpAWT6tV_-Wr3P8RJXgC5oxRTXVpzVEsp
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nNcn_sU6fNLP8MOqVCxEfqEExDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962271/294734.jpg" group-title="Live Event", Tottenham vs Nottingham Forest - Premier League 21:00 22 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=bZEeL2aUNcyfq0NZ2GTwUJX1wp80v9pcKBTx9nXNzR2idTYiZNTqf_iD5GHa1iHHnOwgSwMBH-1rm6QS9UW4YfplJ4O1TGKqUAbzmhLL4tb-ovxe_U4dKhicAcwwSC4P
-https://vidx.semar.my.id/mbledos.mpd?pepek=n_fe_prUFFoljt_mBgpYm8lqXEyMxuc9z4U_6_1fKF5OKneDAJyqXbN7Y-IWgBQTOHDe2SdyyN8bpZJlPw8jaWO874zOO5lqQ9iKGT-cEQ_8-hq8t7SSE-8gXjTzLGhf
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=yh6NkrKZOzzx2hZ1dH6ILfQBsQ7EIS6dU5ms0oPZYnIYp5F3ngcF5yPsq2kLpBzfdRY8-vA1oJ2rRIjKKJEGi4duSVgukweb9tzTPVyfwqnVpZg8CO2YC9YK6P_AxSej
+https://vidx.semar.my.id/mbledos.mpd?pepek=L9MBj3sVvZClufFwUkOY0-LawngvwEOc52amdUW51AdCSK6zfyHgj2D1VpFOvy1rai7YrR1ECjAhbbOfRy-W9a2j0pbdd_B3vaEsZMOzHgqI9au2Mw-fTxLcsQNkU1Jr
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/eGnm99qk4TCmnN3E2iREbKHA9Mk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959623/314edc.jpg" group-title="Live Event", Atalanta vs Verona - Serie A 21:00 22 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=GZ3i_c-GlMScLyGPS9z7Fd4HL7voTVg1gG5jv0sv3sTAnPDqd-sPZGYfXJ2xyT-u1-Ybmd5eBgfHwcz2nz5Ucv0WOV0uYfFM9rsrEXhhP2FSFT9T_Wf4bkG5nCVB_pCv
+https://vidx.semar.my.id/mbledos.mpd?pepek=rhYjfq_BWNzlko_FRwM5NDPauxddjYDba2s774EeCvkmWNJ80YC3qymgcR_4MOBh4A5suTkYe0JGtAD_PqVuq8LrQDF9H3uMyVx-FPpuCYTR9YfSVkhuh1mMZsY3Y_KW
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/DKIbHcVe2VkNRDKV-zyS194zIB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962257/e18f83.jpg" group-title="Live Event", Aston Villa vs West Ham - Premier League 21:10 22 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Ts4HcQSIM36AMfNHbh16HduoUX_gcy4X9c5e5dmnKrStK3XrY4TXgjRDKHpcoe02TMzYFGff4YKVQGwW1QY4PeVvoppgfkXb3fkc2NbFVFrbWNtSaVtOB6sO9-SmxQSB
-https://vidx.semar.my.id/mbledos.mpd?pepek=unWENMiq8RQNHVdWRD_UFNuf_ihUShUbLnlhl5ynSsXqqq4B4-y11mvtI5ElTJRmSDX1dkc2yXpndmTrsDHOf9_o_liIuQf7QOAFuKEiSG_k2YhOtPgnoiV5jz4EB6ik
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=bhRU-JqLVEwoRSsj-SMSzIei0twTaRnhy5suVB-uJ-QExW7LCAsvQw9ZdPN4sq27XyW728GSyNwZmIErhkteMeIwa7Ln5tumPVIsfOyJEYGH1PCPeypFnvpl9hQgFAlC
+https://vidx.semar.my.id/mbledos.mpd?pepek=TIFCYyHV90mPkXeognlH5po1s4B-PwiJMIJS8XvaWkbLRwx76547vDdTiwif5pxn_E3UWY340LyvalLpZNOCvaP3RPBnsw3wpE_USkcs85VaqMt9ty3nN3s0ZRkND_Xa
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Emkfzf4ilgmrVrwgCUVBPQPqg6A=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4962342/9ffc6f.jpg" group-title="Live Event", Celta Vigo vs Alaves - LaLiga 22:15 22 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=3ou55Ka3qChRN9tJRmvZRajIKAEoWZDVrF6_TxrMr3zvdOVaf6KdocuT_RhoJkuw9p6Xh2QHsYhCK1xbWwrWkWajeue-EHUWHQjrhTKiOdaUTyI4AVT53Cgu3kxWo9v6
-https://vidx.semar.my.id/mbledos.mpd?pepek=lEeCzCMZJGPeqPW85epIMi9HXFWf6w8s5vLCQJwl6hZ8JwRC7AV3CDfc64FOvb3Qnzv0UIhTTZyEVZRa5MyCE5xXpire3nVkhdHF-CaMNiFfOSlU4RrGFBn0LXS9ZmrQ
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=kWIDJrIHzGJgI1WV3dHPL_e6CT6awMxundEdO4whps94AkWpuDeHfGhtqguL8fH0CNVBN4vUgxSa5SsrrnRAiWzYc7kjNhlYRg0focRH1C8jpxI8tJ-15y2UXthgRzW0
+https://vidx.semar.my.id/mbledos.mpd?pepek=DFXY6H3Es_ntbLL_ymF-nCFUQ4z3EfAb7v00Z4zYoGJ055m4ikmusWKINijsmjWF5rxTTE5vp9Naw4y6LGdO0En1W9GzvrVX1LDixUzWFuwcKv43QL-HO80TyYn-agK9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jQpe_rfCTaFSoXxk0cE6iOvZ2q4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4959622/0c87d9.jpg" group-title="Live Event", Roma vs Lecce - Serie A 00:00 23 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=kxGJ-6_0EEoQnxPYnKUB3mPeRl89DIXSeH2B-qXWyz2uN7heiD3L2WIfJL5BJSODBszyoR2u0LzSsAuxgcQXX4NZ3xKB-6IM5boNKRvI-FEnra2u6UnbN8uzzmTC15Xg
+https://vidx.semar.my.id/mbledos.mpd?pepek=E0voUWsKx7_Y3YGLddjpgv4jmZsWd1sZRa8vTTn_A5oHDPXOSOBxp3Ur_w0LUcJU0Ybg9-ertGrk6my7ujinQQSgRZ0XecgIAdGVD3yfrVyzu949YDsRKQiCOz9Mvdk7
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XYdM6H8oyTVHOkyR9iRjz0LcjA4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967033/9cc323.jpg" group-title="Live Event", Athletic Club vs Real Betis - LaLiga 00:30 23 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=vRXGODvapLf5TYt2STooUsYqxDiCBAEdDkYUA_QxmHDgV2Fw2ac4DS5yOyFF4QnAgo1TjZdWfzxbDZ2zxuyqWBkMPRSaH_wokA53vLx2RrK1R0jt36Qm-xwSfKEdv6FH
-https://vidx.semar.my.id/mbledos.mpd?pepek=I0Qq-awKZidRLb4QsqWCMjkrpwOhQD3kxg1eBPWhGi_zqOooS8am0hPC0-lrkqgsmmnOhQahhJ2SWQfkjavfrJcXFE35CQqb5wUg8hm0NAx9e_vLYA-BiX8PCQmcCFXZ
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=yhl_gtJoL4eE6HE5l3wqRzDArJY05S9FkntcF5xHCNICYPh3ESOe7SZ9UHG8KWFfZKGS_4LH3MrHHthB_8N01hjHDQIrSmBR5iCOdEvaBqgPumozuD8P_1dqp-IicKPl
+https://vidx.semar.my.id/mbledos.mpd?pepek=Y7PAus8YcRG_r_xMo21aLZGAezX0avakduFgHB4kOSuBahc2WhUbgwvBsYPS89E84HMiLqspmyefO2qlR2fgQL1vCT2-e2wKyRprlvKfFfz9Ye49QSM8gAn8AtVMbAyV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jy_EHv9pZO1Xp6EhLtMbvDe7yMI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4966950/9be8a3.jpg" group-title="Live Event", Fiorentina vs Inter - Serie A 02:45 23 Maret 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=kx1lmYDQ1SGAcZ2Lje5sp1Etor4tF6M08AUVFNjPq6Aq56Qjid4_2lS0awQeipmpKkBS6uRZHQH3agyhSw0LL90cjD8PMFfyxvLfso9wlqTi9jf-1rR4MvaPvhTt6L78
+https://vidx.semar.my.id/mbledos.mpd?pepek=B7Z8RoxN5hgNzvFfiq3H3oDQ2iQLxjEWujyNL5-VSv4fymHCigz5PjkaxMzFTWnV3ntgB4TCTrXOoY8Tjn7w0rD_oYMcVRJYDoXm3dLkdAOXr8Z0aVIn-FEGMVNWX5IO
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/lyiLS6WndVBC2UBCENMFB11VDSE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4967035/f025e9.jpg" group-title="Live Event", Real Madrid vs Atletico Madrid - LaLiga 03:00 23 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=r1MfCSVfPyJe3M2VM_aztIuWscekXcngSLFQUI5OCDCZ7FXFeEG9pP4BPqE_gJPhwgKqUiyataUDIjnMogUn4WohoqprBnHjJ7laNTfo6pf0mUE5WTo43fMFMIgpSBtQ
-https://vidx.semar.my.id/mbledos.mpd?pepek=4QmHPpnWEamB-WiyUjxWP1CVACtu9HiUV2z77CFJmilPnY3gJCP-he1vW8vvngFr0X2L6WUfeXu9hFb7QU2_HdAOPpEDXshvh6AzzI-RpnwCW1JIh3rHa6sol2lTDBCj
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=8BlYqP2ApSB4efaunAd59jrEozWQ7HL7Gj_xna7DVQi7q0-LEIbcwxmdUhvoBUp5DeZnfJeTlqhb3WpumtH_JQu_N43hhzfy5t4gzb74B2QM6GpBet4j23wy0A_ChLi6
+https://vidx.semar.my.id/mbledos.mpd?pepek=e8AqrJDOpYfsmzJCnyz-whhvNQ05khmXTkshCjvfUjN1_YfKMY95OVtD4o6G8eaNDhg030YV_kYfU07a6w5lyWmgzFE13dBDK4LswVajrKKPrH9Z_JvNfRU4TBE4Pt2H
